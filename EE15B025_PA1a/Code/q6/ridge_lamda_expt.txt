@@ -1,0 +1,193 @@
+##############################################################################
+
+Lamda : 0.5    and    Average Residual Error : 1.38099453459
+Lamda : 1.0    and    Average Residual Error : 1.31511261356
+Lamda : 1.5    and    Average Residual Error : 1.2870561021
+Lamda : 2.0    and    Average Residual Error : 1.27177207171
+Lamda : 2.5    and    Average Residual Error : 1.26257484643
+Lamda : 3.0    and    Average Residual Error : 1.25682496727
+Lamda : 3.5    and    Average Residual Error : 1.25324343259
+Lamda : 4.0    and    Average Residual Error : 1.25112511769
+Lamda : 4.5    and    Average Residual Error : 1.25004504648
+Lamda : 5.0    and    Average Residual Error : 1.24972983522
+Lamda : 5.5    and    Average Residual Error : 1.24999466634
+Lamda : 6.0    and    Average Residual Error : 1.25070962647
+Lamda : 6.5    and    Average Residual Error : 1.25178048143
+Lamda : 7.0    and    Average Residual Error : 1.25313708869
+Lamda : 7.5    and    Average Residual Error : 1.2547260974
+Lamda : 8.0    and    Average Residual Error : 1.25650617672
+Lamda : 8.5    and    Average Residual Error : 1.25844479789
+Lamda : 9.0    and    Average Residual Error : 1.26051600537
+Lamda : 9.5    and    Average Residual Error : 1.26269883684
+Lamda : 10.0    and    Average Residual Error : 1.2649761804
+Lamda : 10.5    and    Average Residual Error : 1.26733393305
+Lamda : 11.0    and    Average Residual Error : 1.26976037129
+Lamda : 11.5    and    Average Residual Error : 1.27224567352
+Lamda : 12.0    and    Average Residual Error : 1.27478155318
+Lamda : 12.5    and    Average Residual Error : 1.27736097351
+Lamda : 13.0    and    Average Residual Error : 1.27997792365
+Lamda : 13.5    and    Average Residual Error : 1.28262724104
+Lamda : 14.0    and    Average Residual Error : 1.28530446939
+Lamda : 14.5    and    Average Residual Error : 1.28800574419
+Lamda : 15.0    and    Average Residual Error : 1.29072769964
+Lamda : 15.5    and    Average Residual Error : 1.2934673926
+Lamda : 16.0    and    Average Residual Error : 1.29622223996
+Lamda : 16.5    and    Average Residual Error : 1.29898996674
+Lamda : 17.0    and    Average Residual Error : 1.30176856288
+Lamda : 17.5    and    Average Residual Error : 1.3045562471
+Lamda : 18.0    and    Average Residual Error : 1.30735143643
+Lamda : 18.5    and    Average Residual Error : 1.31015272051
+Lamda : 19.0    and    Average Residual Error : 1.31295883969
+Lamda : 19.5    and    Average Residual Error : 1.31576866645
+Lamda : 20.0    and    Average Residual Error : 1.31858118939
+
+
+Minimal Error : 1.24972983522 when Optimal Lamda = 5.0 
+
+
+###############################################################################
+
+
+Lamda : 0.1    and    Average Residual Error : 1.6128461498
+Lamda : 0.2    and    Average Residual Error : 1.50162300734
+Lamda : 0.3    and    Average Residual Error : 1.44387915556
+Lamda : 0.4    and    Average Residual Error : 1.40701835767
+Lamda : 0.5    and    Average Residual Error : 1.38099453459
+Lamda : 0.6    and    Average Residual Error : 1.36145848091
+Lamda : 0.7    and    Average Residual Error : 1.34616912793
+Lamda : 0.8    and    Average Residual Error : 1.33383708149
+Lamda : 0.9    and    Average Residual Error : 1.32366084387
+Lamda : 1.0    and    Average Residual Error : 1.31511261356
+Lamda : 1.1    and    Average Residual Error : 1.3078288762
+Lamda : 1.2    and    Average Residual Error : 1.30155009741
+Lamda : 1.3    and    Average Residual Error : 1.29608542591
+Lamda : 1.4    and    Average Residual Error : 1.29129100565
+Lamda : 1.5    and    Average Residual Error : 1.2870561021
+Lamda : 1.6    and    Average Residual Error : 1.28329392086
+Lamda : 1.7    and    Average Residual Error : 1.2799353524
+Lamda : 1.8    and    Average Residual Error : 1.2769246019
+Lamda : 1.9    and    Average Residual Error : 1.27421606828
+Lamda : 2.0    and    Average Residual Error : 1.27177207171
+Lamda : 2.1    and    Average Residual Error : 1.26956117001
+Lamda : 2.2    and    Average Residual Error : 1.2675568921
+Lamda : 2.3    and    Average Residual Error : 1.26573677171
+Lamda : 2.4    and    Average Residual Error : 1.26408160085
+Lamda : 2.5    and    Average Residual Error : 1.26257484643
+Lamda : 2.6    and    Average Residual Error : 1.26120218951
+Lamda : 2.7    and    Average Residual Error : 1.25995115793
+Lamda : 2.8    and    Average Residual Error : 1.25881083077
+Lamda : 2.9    and    Average Residual Error : 1.25777159854
+Lamda : 3.0    and    Average Residual Error : 1.25682496727
+Lamda : 3.1    and    Average Residual Error : 1.25596339719
+Lamda : 3.2    and    Average Residual Error : 1.255180169
+Lamda : 3.3    and    Average Residual Error : 1.25446927248
+Lamda : 3.4    and    Average Residual Error : 1.25382531299
+Lamda : 3.5    and    Average Residual Error : 1.25324343259
+Lamda : 3.6    and    Average Residual Error : 1.25271924331
+Lamda : 3.7    and    Average Residual Error : 1.25224877017
+Lamda : 3.8    and    Average Residual Error : 1.25182840256
+Lamda : 3.9    and    Average Residual Error : 1.25145485231
+Lamda : 4.0    and    Average Residual Error : 1.25112511769
+Lamda : 4.1    and    Average Residual Error : 1.25083645206
+Lamda : 4.2    and    Average Residual Error : 1.25058633672
+Lamda : 4.3    and    Average Residual Error : 1.25037245718
+Lamda : 4.4    and    Average Residual Error : 1.25019268237
+Lamda : 4.5    and    Average Residual Error : 1.25004504648
+Lamda : 4.6    and    Average Residual Error : 1.24992773278
+Lamda : 4.7    and    Average Residual Error : 1.24983905956
+Lamda : 4.8    and    Average Residual Error : 1.24977746744
+Lamda : 4.9    and    Average Residual Error : 1.24974150828
+Lamda : 5.0    and    Average Residual Error : 1.24972983522
+Lamda : 5.1    and    Average Residual Error : 1.24974119379
+Lamda : 5.2    and    Average Residual Error : 1.24977441397
+Lamda : 5.3    and    Average Residual Error : 1.2498284031
+Lamda : 5.4    and    Average Residual Error : 1.24990213941
+Lamda : 5.5    and    Average Residual Error : 1.24999466634
+Lamda : 5.6    and    Average Residual Error : 1.25010508728
+Lamda : 5.7    and    Average Residual Error : 1.25023256088
+Lamda : 5.8    and    Average Residual Error : 1.25037629681
+Lamda : 5.9    and    Average Residual Error : 1.25053555186
+Lamda : 6.0    and    Average Residual Error : 1.25070962647
+Lamda : 6.1    and    Average Residual Error : 1.25089786149
+Lamda : 6.2    and    Average Residual Error : 1.2510996353
+Lamda : 6.3    and    Average Residual Error : 1.25131436111
+Lamda : 6.4    and    Average Residual Error : 1.25154148455
+Lamda : 6.5    and    Average Residual Error : 1.25178048143
+Lamda : 6.6    and    Average Residual Error : 1.25203085568
+Lamda : 6.7    and    Average Residual Error : 1.25229213751
+Lamda : 6.8    and    Average Residual Error : 1.25256388162
+Lamda : 6.9    and    Average Residual Error : 1.25284566564
+Lamda : 7.0    and    Average Residual Error : 1.25313708869
+Lamda : 7.1    and    Average Residual Error : 1.25343776996
+Lamda : 7.2    and    Average Residual Error : 1.25374734751
+Lamda : 7.3    and    Average Residual Error : 1.25406547709
+Lamda : 7.4    and    Average Residual Error : 1.25439183106
+Lamda : 7.5    and    Average Residual Error : 1.2547260974
+Lamda : 7.6    and    Average Residual Error : 1.25506797881
+Lamda : 7.7    and    Average Residual Error : 1.2554171918
+Lamda : 7.8    and    Average Residual Error : 1.25577346594
+Lamda : 7.9    and    Average Residual Error : 1.25613654309
+Lamda : 8.0    and    Average Residual Error : 1.25650617672
+Lamda : 8.1    and    Average Residual Error : 1.25688213126
+Lamda : 8.2    and    Average Residual Error : 1.25726418148
+Lamda : 8.3    and    Average Residual Error : 1.25765211197
+Lamda : 8.4    and    Average Residual Error : 1.25804571657
+Lamda : 8.5    and    Average Residual Error : 1.25844479789
+Lamda : 8.6    and    Average Residual Error : 1.25884916687
+Lamda : 8.7    and    Average Residual Error : 1.25925864231
+Lamda : 8.8    and    Average Residual Error : 1.2596730505
+Lamda : 8.9    and    Average Residual Error : 1.26009222481
+Lamda : 9.0    and    Average Residual Error : 1.26051600537
+Lamda : 9.1    and    Average Residual Error : 1.26094423869
+Lamda : 9.2    and    Average Residual Error : 1.26137677738
+Lamda : 9.3    and    Average Residual Error : 1.26181347983
+Lamda : 9.4    and    Average Residual Error : 1.26225420994
+Lamda : 9.5    and    Average Residual Error : 1.26269883684
+Lamda : 9.6    and    Average Residual Error : 1.26314723469
+Lamda : 9.7    and    Average Residual Error : 1.26359928239
+Lamda : 9.8    and    Average Residual Error : 1.26405486336
+Lamda : 9.9    and    Average Residual Error : 1.2645138654
+Lamda : 10.0    and    Average Residual Error : 1.2649761804
+
+
+Minimal Error : 1.24972983522 when Optimal Lamda = 5.0 
+
+
+################################################################################
+
+Lamda : 1    and    Average Residual Error : 1.31511261356
+Lamda : 2    and    Average Residual Error : 1.27177207171
+Lamda : 3    and    Average Residual Error : 1.25682496727
+Lamda : 4    and    Average Residual Error : 1.25112511769
+Lamda : 5    and    Average Residual Error : 1.24972983522
+Lamda : 6    and    Average Residual Error : 1.25070962647
+Lamda : 7    and    Average Residual Error : 1.25313708869
+Lamda : 8    and    Average Residual Error : 1.25650617672
+Lamda : 9    and    Average Residual Error : 1.26051600537
+Lamda : 10    and    Average Residual Error : 1.2649761804
+Lamda : 11    and    Average Residual Error : 1.26976037129
+Lamda : 12    and    Average Residual Error : 1.27478155318
+Lamda : 13    and    Average Residual Error : 1.27997792365
+Lamda : 14    and    Average Residual Error : 1.28530446939
+Lamda : 15    and    Average Residual Error : 1.29072769964
+Lamda : 16    and    Average Residual Error : 1.29622223996
+Lamda : 17    and    Average Residual Error : 1.30176856288
+Lamda : 18    and    Average Residual Error : 1.30735143643
+Lamda : 19    and    Average Residual Error : 1.31295883969
+Lamda : 20    and    Average Residual Error : 1.31858118939
+Lamda : 21    and    Average Residual Error : 1.32421077864
+Lamda : 22    and    Average Residual Error : 1.32984136305
+Lamda : 23    and    Average Residual Error : 1.33546785114
+Lamda : 24    and    Average Residual Error : 1.3410860696
+Lamda : 25    and    Average Residual Error : 1.3466925833
+Lamda : 26    and    Average Residual Error : 1.35228455562
+Lamda : 27    and    Average Residual Error : 1.357859639
+Lamda : 28    and    Average Residual Error : 1.36341588835
+Lamda : 29    and    Average Residual Error : 1.36895169199
+Lamda : 30    and    Average Residual Error : 1.37446571598
+
+
+Minimal Error : 1.24972983522 when Optimal Lamda = 5 
+
+
+###########################################################################

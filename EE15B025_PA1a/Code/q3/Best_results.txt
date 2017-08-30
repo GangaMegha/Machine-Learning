@@ -1,0 +1,5 @@
+
+Best Accuracy = 0.784166666667 for k = 29
+Best Precision = 0.721902800659 for k = 29
+Best Recall = 0.808333333333 for k = 64
+Best F-measure = 0.788273615635 for k = 72

@@ -1,0 +1,27 @@
+
+The file contains the lamda values used and the corresponding average error obtained
+
+
+Lamda : 0.5    and    Average Residual Error : 1.38099453459
+Lamda : 1.0    and    Average Residual Error : 1.31511261356
+Lamda : 1.5    and    Average Residual Error : 1.2870561021
+Lamda : 2.0    and    Average Residual Error : 1.27177207171
+Lamda : 2.5    and    Average Residual Error : 1.26257484643
+Lamda : 3.0    and    Average Residual Error : 1.25682496727
+Lamda : 3.5    and    Average Residual Error : 1.25324343259
+Lamda : 4.0    and    Average Residual Error : 1.25112511769
+Lamda : 4.5    and    Average Residual Error : 1.25004504648
+Lamda : 5.0    and    Average Residual Error : 1.24972983522
+Lamda : 5.5    and    Average Residual Error : 1.24999466634
+Lamda : 6.0    and    Average Residual Error : 1.25070962647
+Lamda : 6.5    and    Average Residual Error : 1.25178048143
+Lamda : 7.0    and    Average Residual Error : 1.25313708869
+Lamda : 7.5    and    Average Residual Error : 1.2547260974
+Lamda : 8.0    and    Average Residual Error : 1.25650617672
+Lamda : 8.5    and    Average Residual Error : 1.25844479789
+Lamda : 9.0    and    Average Residual Error : 1.26051600537
+Lamda : 9.5    and    Average Residual Error : 1.26269883684
+Lamda : 10.0    and    Average Residual Error : 1.2649761804
+
+Minimal error : 1.24972983522 when Optimal Lamda = 5.0 
+

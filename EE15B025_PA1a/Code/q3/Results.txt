@@ -1,0 +1,1251 @@
+
+k : 1
+	Accuracy : 0.694166666667
+	Precision : 0.635883361921
+	Recall : 0.68
+	F-measure : 0.689771766695
+k : 2
+	Accuracy : 0.689166666667
+	Precision : 0.648664987406
+	Recall : 0.52
+	F-measure : 0.625877632899
+k : 3
+	Accuracy : 0.74
+	Precision : 0.678775510204
+	Recall : 0.73
+	F-measure : 0.737373737374
+k : 4
+	Accuracy : 0.729166666667
+	Precision : 0.682347670251
+	Recall : 0.616666666667
+	F-measure : 0.694835680751
+k : 5
+	Accuracy : 0.764166666667
+	Precision : 0.702930062042
+	Recall : 0.756666666667
+	F-measure : 0.762384550798
+k : 6
+	Accuracy : 0.749166666667
+	Precision : 0.698346534653
+	Recall : 0.67
+	F-measure : 0.727601809955
+k : 7
+	Accuracy : 0.763333333333
+	Precision : 0.701011111111
+	Recall : 0.763333333333
+	F-measure : 0.763333333333
+k : 8
+	Accuracy : 0.758333333333
+	Precision : 0.704151061174
+	Recall : 0.703333333333
+	F-measure : 0.744268077601
+k : 9
+	Accuracy : 0.768333333333
+	Precision : 0.707142454955
+	Recall : 0.761666666667
+	F-measure : 0.76677852349
+k : 10
+	Accuracy : 0.763333333333
+	Precision : 0.707315151515
+	Recall : 0.721666666667
+	F-measure : 0.753043478261
+k : 11
+	Accuracy : 0.7675
+	Precision : 0.704481054366
+	Recall : 0.773333333333
+	F-measure : 0.768848384424
+k : 12
+	Accuracy : 0.771666666667
+	Precision : 0.713520467836
+	Recall : 0.746666666667
+	F-measure : 0.765811965812
+k : 13
+	Accuracy : 0.768333333333
+	Precision : 0.704527687296
+	Recall : 0.78
+	F-measure : 0.771004942339
+k : 14
+	Accuracy : 0.773333333333
+	Precision : 0.713954022989
+	Recall : 0.756666666667
+	F-measure : 0.769491525424
+k : 15
+	Accuracy : 0.774166666667
+	Precision : 0.710417344173
+	Recall : 0.786666666667
+	F-measure : 0.77695473251
+k : 16
+	Accuracy : 0.779166666667
+	Precision : 0.719515669516
+	Recall : 0.766666666667
+	F-measure : 0.776371308017
+k : 17
+	Accuracy : 0.775833333333
+	Precision : 0.712387166939
+	Recall : 0.786666666667
+	F-measure : 0.77823577906
+k : 18
+	Accuracy : 0.7775
+	Precision : 0.71614321608
+	Recall : 0.775
+	F-measure : 0.77694235589
+k : 19
+	Accuracy : 0.778333333333
+	Precision : 0.714623917749
+	Recall : 0.791666666667
+	F-measure : 0.78125
+k : 20
+	Accuracy : 0.778333333333
+	Precision : 0.717156040268
+	Recall : 0.775
+	F-measure : 0.777591973244
+k : 21
+	Accuracy : 0.7775
+	Precision : 0.713392568659
+	Recall : 0.793333333333
+	F-measure : 0.780968006563
+k : 22
+	Accuracy : 0.780833333333
+	Precision : 0.719152800887
+	Recall : 0.781666666667
+	F-measure : 0.78101582015
+k : 23
+	Accuracy : 0.7775
+	Precision : 0.712913322632
+	Recall : 0.796666666667
+	F-measure : 0.781684382666
+k : 24
+	Accuracy : 0.7775
+	Precision : 0.715119834711
+	Recall : 0.781666666667
+	F-measure : 0.778423236515
+k : 25
+	Accuracy : 0.776666666667
+	Precision : 0.712170418006
+	Recall : 0.795
+	F-measure : 0.780687397709
+k : 26
+	Accuracy : 0.783333333333
+	Precision : 0.721149614961
+	Recall : 0.788333333333
+	F-measure : 0.784411276949
+k : 27
+	Accuracy : 0.778333333333
+	Precision : 0.714137096774
+	Recall : 0.795
+	F-measure : 0.781967213115
+k : 28
+	Accuracy : 0.778333333333
+	Precision : 0.715117102397
+	Recall : 0.788333333333
+	F-measure : 0.780528052805
+k : 29
+	Accuracy : 0.783333333333
+	Precision : 0.718856837607
+	Recall : 0.803333333333
+	F-measure : 0.787581699346
+k : 30
+	Accuracy : 0.784166666667
+	Precision : 0.721902800659
+	Recall : 0.79
+	F-measure : 0.785418392709
+k : 31
+	Accuracy : 0.78
+	Precision : 0.715627009646
+	Recall : 0.798333333333
+	F-measure : 0.783960720131
+k : 32
+	Accuracy : 0.7775
+	Precision : 0.714618226601
+	Recall : 0.785
+	F-measure : 0.779156327543
+k : 33
+	Accuracy : 0.7825
+	Precision : 0.717376788553
+	Recall : 0.806666666667
+	F-measure : 0.787632221318
+k : 34
+	Accuracy : 0.7775
+	Precision : 0.71387804878
+	Recall : 0.79
+	F-measure : 0.78024691358
+k : 35
+	Accuracy : 0.7775
+	Precision : 0.713152173913
+	Recall : 0.795
+	F-measure : 0.781326781327
+k : 36
+	Accuracy : 0.779166666667
+	Precision : 0.715616531165
+	Recall : 0.791666666667
+	F-measure : 0.781893004115
+k : 37
+	Accuracy : 0.778333333333
+	Precision : 0.713418530351
+	Recall : 0.8
+	F-measure : 0.783034257749
+k : 38
+	Accuracy : 0.776666666667
+	Precision : 0.71264832794
+	Recall : 0.791666666667
+	F-measure : 0.779967159278
+k : 39
+	Accuracy : 0.780833333333
+	Precision : 0.715887825625
+	Recall : 0.803333333333
+	F-measure : 0.78565607172
+k : 40
+	Accuracy : 0.775833333333
+	Precision : 0.711665320409
+	Recall : 0.791666666667
+	F-measure : 0.779327317473
+k : 41
+	Accuracy : 0.776666666667
+	Precision : 0.711698615548
+	Recall : 0.798333333333
+	F-measure : 0.781402936378
+k : 42
+	Accuracy : 0.7775
+	Precision : 0.714123164763
+	Recall : 0.788333333333
+	F-measure : 0.779884583677
+k : 43
+	Accuracy : 0.7775
+	Precision : 0.713152173913
+	Recall : 0.795
+	F-measure : 0.781326781327
+k : 44
+	Accuracy : 0.775
+	Precision : 0.711642156863
+	Recall : 0.785
+	F-measure : 0.777227722772
+k : 45
+	Accuracy : 0.781666666667
+	Precision : 0.716391534392
+	Recall : 0.806666666667
+	F-measure : 0.786991869919
+k : 46
+	Accuracy : 0.775833333333
+	Precision : 0.711665320409
+	Recall : 0.791666666667
+	F-measure : 0.779327317473
+k : 47
+	Accuracy : 0.778333333333
+	Precision : 0.712947089947
+	Recall : 0.803333333333
+	F-measure : 0.783739837398
+k : 48
+	Accuracy : 0.775
+	Precision : 0.710450160772
+	Recall : 0.793333333333
+	F-measure : 0.779050736498
+k : 49
+	Accuracy : 0.779166666667
+	Precision : 0.713924218336
+	Recall : 0.803333333333
+	F-measure : 0.784377542718
+k : 50
+	Accuracy : 0.775833333333
+	Precision : 0.711665320409
+	Recall : 0.791666666667
+	F-measure : 0.779327317473
+k : 51
+	Accuracy : 0.78
+	Precision : 0.714904458599
+	Recall : 0.803333333333
+	F-measure : 0.785016286645
+k : 52
+	Accuracy : 0.775833333333
+	Precision : 0.711904376013
+	Recall : 0.79
+	F-measure : 0.778964667214
+k : 53
+	Accuracy : 0.775833333333
+	Precision : 0.710262810354
+	Recall : 0.801666666667
+	F-measure : 0.781478472786
+k : 54
+	Accuracy : 0.771666666667
+	Precision : 0.706797542735
+	Recall : 0.791666666667
+	F-measure : 0.77614379085
+k : 55
+	Accuracy : 0.771666666667
+	Precision : 0.706121693122
+	Recall : 0.796666666667
+	F-measure : 0.777235772358
+k : 56
+	Accuracy : 0.774166666667
+	Precision : 0.709708803006
+	Recall : 0.791666666667
+	F-measure : 0.778050778051
+k : 57
+	Accuracy : 0.7725
+	Precision : 0.706858161648
+	Recall : 0.798333333333
+	F-measure : 0.778229082047
+k : 58
+	Accuracy : 0.773333333333
+	Precision : 0.708504273504
+	Recall : 0.793333333333
+	F-measure : 0.777777777778
+k : 59
+	Accuracy : 0.774166666667
+	Precision : 0.708557844691
+	Recall : 0.8
+	F-measure : 0.779853777417
+k : 60
+	Accuracy : 0.775833333333
+	Precision : 0.711665320409
+	Recall : 0.791666666667
+	F-measure : 0.779327317473
+k : 61
+	Accuracy : 0.775833333333
+	Precision : 0.710724348751
+	Recall : 0.798333333333
+	F-measure : 0.78076609617
+k : 62
+	Accuracy : 0.779166666667
+	Precision : 0.715370070232
+	Recall : 0.793333333333
+	F-measure : 0.782251437962
+k : 63
+	Accuracy : 0.775833333333
+	Precision : 0.710492845787
+	Recall : 0.8
+	F-measure : 0.781122864117
+k : 64
+	Accuracy : 0.7775
+	Precision : 0.713152173913
+	Recall : 0.795
+	F-measure : 0.781326781327
+k : 65
+	Accuracy : 0.780833333333
+	Precision : 0.715172459189
+	Recall : 0.808333333333
+	F-measure : 0.786699107867
+k : 66
+	Accuracy : 0.781666666667
+	Precision : 0.717118055556
+	Recall : 0.801666666667
+	F-measure : 0.785947712418
+k : 67
+	Accuracy : 0.780833333333
+	Precision : 0.715409403064
+	Recall : 0.806666666667
+	F-measure : 0.786352558895
+k : 68
+	Accuracy : 0.778333333333
+	Precision : 0.713896034298
+	Recall : 0.796666666667
+	F-measure : 0.78232405892
+k : 69
+	Accuracy : 0.776666666667
+	Precision : 0.711232804233
+	Recall : 0.801666666667
+	F-measure : 0.782113821138
+k : 70
+	Accuracy : 0.7775
+	Precision : 0.712440191388
+	Recall : 0.8
+	F-measure : 0.78239608802
+k : 71
+	Accuracy : 0.779166666667
+	Precision : 0.71368858954
+	Recall : 0.805
+	F-measure : 0.784727863526
+k : 72
+	Accuracy : 0.781666666667
+	Precision : 0.717118055556
+	Recall : 0.801666666667
+	F-measure : 0.785947712418
+k : 73
+	Accuracy : 0.783333333333
+	Precision : 0.718365180467
+	Recall : 0.806666666667
+	F-measure : 0.788273615635
+k : 74
+	Accuracy : 0.779166666667
+	Precision : 0.714640181915
+	Recall : 0.798333333333
+	F-measure : 0.783319705642
+k : 75
+	Accuracy : 0.780833333333
+	Precision : 0.715647853736
+	Recall : 0.805
+	F-measure : 0.786004882018
+k : 76
+	Accuracy : 0.78
+	Precision : 0.715143769968
+	Recall : 0.801666666667
+	F-measure : 0.784665579119
+k : 77
+	Accuracy : 0.778333333333
+	Precision : 0.713182059448
+	Recall : 0.801666666667
+	F-measure : 0.78338762215
+k : 78
+	Accuracy : 0.7775
+	Precision : 0.712676
+	Recall : 0.798333333333
+	F-measure : 0.782040816327
+k : 79
+	Accuracy : 0.775
+	Precision : 0.709523809524
+	Recall : 0.8
+	F-measure : 0.780487804878
+k : 80
+	Accuracy : 0.778333333333
+	Precision : 0.713418530351
+	Recall : 0.8
+	F-measure : 0.783034257749
+k : 81
+	Accuracy : 0.776666666667
+	Precision : 0.711232804233
+	Recall : 0.801666666667
+	F-measure : 0.782113821138
+k : 82
+	Accuracy : 0.778333333333
+	Precision : 0.713182059448
+	Recall : 0.801666666667
+	F-measure : 0.78338762215
+k : 83
+	Accuracy : 0.776666666667
+	Precision : 0.711002109705
+	Recall : 0.803333333333
+	F-measure : 0.782467532468
+k : 84
+	Accuracy : 0.774166666667
+	Precision : 0.709013822435
+	Recall : 0.796666666667
+	F-measure : 0.779136104319
+k : 85
+	Accuracy : 0.775
+	Precision : 0.709295886076
+	Recall : 0.801666666667
+	F-measure : 0.780844155844
+k : 86
+	Accuracy : 0.774166666667
+	Precision : 0.709244
+	Recall : 0.795
+	F-measure : 0.778775510204
+k : 87
+	Accuracy : 0.7725
+	Precision : 0.707082670906
+	Recall : 0.796666666667
+	F-measure : 0.777868185517
+k : 88
+	Accuracy : 0.7725
+	Precision : 0.707536
+	Recall : 0.793333333333
+	F-measure : 0.777142857143
+k : 89
+	Accuracy : 0.775
+	Precision : 0.709523809524
+	Recall : 0.8
+	F-measure : 0.780487804878
+k : 90
+	Accuracy : 0.773333333333
+	Precision : 0.708274760383
+	Recall : 0.795
+	F-measure : 0.778140293638
+k : 91
+	Accuracy : 0.773333333333
+	Precision : 0.70782010582
+	Recall : 0.798333333333
+	F-measure : 0.778861788618
+k : 92
+	Accuracy : 0.773333333333
+	Precision : 0.708504273504
+	Recall : 0.793333333333
+	F-measure : 0.777777777778
+k : 93
+	Accuracy : 0.774166666667
+	Precision : 0.708785108638
+	Recall : 0.798333333333
+	F-measure : 0.779495524817
+k : 94
+	Accuracy : 0.773333333333
+	Precision : 0.708274760383
+	Recall : 0.795
+	F-measure : 0.778140293638
+k : 95
+	Accuracy : 0.774166666667
+	Precision : 0.708332016851
+	Recall : 0.801666666667
+	F-measure : 0.780210867802
+k : 96
+	Accuracy : 0.7725
+	Precision : 0.707082670906
+	Recall : 0.796666666667
+	F-measure : 0.777868185517
+k : 97
+	Accuracy : 0.773333333333
+	Precision : 0.707594936709
+	Recall : 0.8
+	F-measure : 0.779220779221
+k : 98
+	Accuracy : 0.773333333333
+	Precision : 0.70782010582
+	Recall : 0.798333333333
+	F-measure : 0.778861788618
+k : 99
+	Accuracy : 0.774166666667
+	Precision : 0.708332016851
+	Recall : 0.801666666667
+	F-measure : 0.780210867802
+k : 100
+	Accuracy : 0.773333333333
+	Precision : 0.70782010582
+	Recall : 0.798333333333
+	F-measure : 0.778861788618
+k : 101
+	Accuracy : 0.774166666667
+	Precision : 0.708557844691
+	Recall : 0.8
+	F-measure : 0.779853777417
+k : 102
+	Accuracy : 0.771666666667
+	Precision : 0.706345541401
+	Recall : 0.795
+	F-measure : 0.776872964169
+k : 103
+	Accuracy : 0.7725
+	Precision : 0.70663507109
+	Recall : 0.8
+	F-measure : 0.778588807786
+k : 104
+	Accuracy : 0.770833333333
+	Precision : 0.705385532591
+	Recall : 0.795
+	F-measure : 0.776240846216
+k : 105
+	Accuracy : 0.773333333333
+	Precision : 0.707594936709
+	Recall : 0.8
+	F-measure : 0.779220779221
+k : 106
+	Accuracy : 0.773333333333
+	Precision : 0.70804670913
+	Recall : 0.796666666667
+	F-measure : 0.778501628664
+k : 107
+	Accuracy : 0.775
+	Precision : 0.709295886076
+	Recall : 0.801666666667
+	F-measure : 0.780844155844
+k : 108
+	Accuracy : 0.773333333333
+	Precision : 0.70782010582
+	Recall : 0.798333333333
+	F-measure : 0.778861788618
+k : 109
+	Accuracy : 0.775
+	Precision : 0.709069400631
+	Recall : 0.803333333333
+	F-measure : 0.781199351702
+k : 110
+	Accuracy : 0.773333333333
+	Precision : 0.708274760383
+	Recall : 0.795
+	F-measure : 0.778140293638
+k : 111
+	Accuracy : 0.7775
+	Precision : 0.711973058637
+	Recall : 0.803333333333
+	F-measure : 0.783103168156
+k : 112
+	Accuracy : 0.775
+	Precision : 0.709753184713
+	Recall : 0.798333333333
+	F-measure : 0.78013029316
+k : 113
+	Accuracy : 0.776666666667
+	Precision : 0.711002109705
+	Recall : 0.803333333333
+	F-measure : 0.782467532468
+k : 114
+	Accuracy : 0.775
+	Precision : 0.709753184713
+	Recall : 0.798333333333
+	F-measure : 0.78013029316
+k : 115
+	Accuracy : 0.775
+	Precision : 0.709523809524
+	Recall : 0.8
+	F-measure : 0.780487804878
+k : 116
+	Accuracy : 0.775
+	Precision : 0.709753184713
+	Recall : 0.798333333333
+	F-measure : 0.78013029316
+k : 117
+	Accuracy : 0.775
+	Precision : 0.709295886076
+	Recall : 0.801666666667
+	F-measure : 0.780844155844
+k : 118
+	Accuracy : 0.7775
+	Precision : 0.712440191388
+	Recall : 0.8
+	F-measure : 0.78239608802
+k : 119
+	Accuracy : 0.776666666667
+	Precision : 0.711232804233
+	Recall : 0.801666666667
+	F-measure : 0.782113821138
+k : 120
+	Accuracy : 0.776666666667
+	Precision : 0.711232804233
+	Recall : 0.801666666667
+	F-measure : 0.782113821138
+k : 121
+	Accuracy : 0.7775
+	Precision : 0.711741706161
+	Recall : 0.805
+	F-measure : 0.783454987835
+k : 122
+	Accuracy : 0.775833333333
+	Precision : 0.710262810354
+	Recall : 0.801666666667
+	F-measure : 0.781478472786
+k : 123
+	Accuracy : 0.775833333333
+	Precision : 0.709807086614
+	Recall : 0.805
+	F-measure : 0.782186234818
+k : 124
+	Accuracy : 0.774166666667
+	Precision : 0.708557844691
+	Recall : 0.8
+	F-measure : 0.779853777417
+k : 125
+	Accuracy : 0.775833333333
+	Precision : 0.710034228541
+	Recall : 0.803333333333
+	F-measure : 0.781832927818
+k : 126
+	Accuracy : 0.773333333333
+	Precision : 0.70782010582
+	Recall : 0.798333333333
+	F-measure : 0.778861788618
+k : 127
+	Accuracy : 0.773333333333
+	Precision : 0.707594936709
+	Recall : 0.8
+	F-measure : 0.779220779221
+k : 128
+	Accuracy : 0.775
+	Precision : 0.709753184713
+	Recall : 0.798333333333
+	F-measure : 0.78013029316
+k : 129
+	Accuracy : 0.7725
+	Precision : 0.706858161648
+	Recall : 0.798333333333
+	F-measure : 0.778229082047
+k : 130
+	Accuracy : 0.775833333333
+	Precision : 0.710724348751
+	Recall : 0.798333333333
+	F-measure : 0.78076609617
+k : 131
+	Accuracy : 0.774166666667
+	Precision : 0.708785108638
+	Recall : 0.798333333333
+	F-measure : 0.779495524817
+k : 132
+	Accuracy : 0.775833333333
+	Precision : 0.710724348751
+	Recall : 0.798333333333
+	F-measure : 0.78076609617
+k : 133
+	Accuracy : 0.775833333333
+	Precision : 0.710492845787
+	Recall : 0.8
+	F-measure : 0.781122864117
+k : 134
+	Accuracy : 0.7775
+	Precision : 0.712676
+	Recall : 0.798333333333
+	F-measure : 0.782040816327
+k : 135
+	Accuracy : 0.776666666667
+	Precision : 0.711464968153
+	Recall : 0.8
+	F-measure : 0.781758957655
+k : 136
+	Accuracy : 0.778333333333
+	Precision : 0.713418530351
+	Recall : 0.8
+	F-measure : 0.783034257749
+k : 137
+	Accuracy : 0.776666666667
+	Precision : 0.711232804233
+	Recall : 0.801666666667
+	F-measure : 0.782113821138
+k : 138
+	Accuracy : 0.776666666667
+	Precision : 0.711933760684
+	Recall : 0.796666666667
+	F-measure : 0.781045751634
+k : 139
+	Accuracy : 0.7775
+	Precision : 0.711973058637
+	Recall : 0.803333333333
+	F-measure : 0.783103168156
+k : 140
+	Accuracy : 0.7775
+	Precision : 0.712205882353
+	Recall : 0.801666666667
+	F-measure : 0.782750203417
+k : 141
+	Accuracy : 0.776666666667
+	Precision : 0.711232804233
+	Recall : 0.801666666667
+	F-measure : 0.782113821138
+k : 142
+	Accuracy : 0.775833333333
+	Precision : 0.710724348751
+	Recall : 0.798333333333
+	F-measure : 0.78076609617
+k : 143
+	Accuracy : 0.775833333333
+	Precision : 0.710492845787
+	Recall : 0.8
+	F-measure : 0.781122864117
+k : 144
+	Accuracy : 0.776666666667
+	Precision : 0.711464968153
+	Recall : 0.8
+	F-measure : 0.781758957655
+k : 145
+	Accuracy : 0.775833333333
+	Precision : 0.710492845787
+	Recall : 0.8
+	F-measure : 0.781122864117
+k : 146
+	Accuracy : 0.775833333333
+	Precision : 0.710957333333
+	Recall : 0.796666666667
+	F-measure : 0.780408163265
+k : 147
+	Accuracy : 0.776666666667
+	Precision : 0.711464968153
+	Recall : 0.8
+	F-measure : 0.781758957655
+k : 148
+	Accuracy : 0.775833333333
+	Precision : 0.710957333333
+	Recall : 0.796666666667
+	F-measure : 0.780408163265
+k : 149
+	Accuracy : 0.773333333333
+	Precision : 0.70782010582
+	Recall : 0.798333333333
+	F-measure : 0.778861788618
+k : 150
+	Accuracy : 0.775
+	Precision : 0.709753184713
+	Recall : 0.798333333333
+	F-measure : 0.78013029316
+k : 151
+	Accuracy : 0.773333333333
+	Precision : 0.707594936709
+	Recall : 0.8
+	F-measure : 0.779220779221
+k : 152
+	Accuracy : 0.775833333333
+	Precision : 0.710492845787
+	Recall : 0.8
+	F-measure : 0.781122864117
+k : 153
+	Accuracy : 0.775
+	Precision : 0.709295886076
+	Recall : 0.801666666667
+	F-measure : 0.780844155844
+k : 154
+	Accuracy : 0.773333333333
+	Precision : 0.70782010582
+	Recall : 0.798333333333
+	F-measure : 0.778861788618
+k : 155
+	Accuracy : 0.775
+	Precision : 0.709295886076
+	Recall : 0.801666666667
+	F-measure : 0.780844155844
+k : 156
+	Accuracy : 0.773333333333
+	Precision : 0.70804670913
+	Recall : 0.796666666667
+	F-measure : 0.778501628664
+k : 157
+	Accuracy : 0.774166666667
+	Precision : 0.708557844691
+	Recall : 0.8
+	F-measure : 0.779853777417
+k : 158
+	Accuracy : 0.774166666667
+	Precision : 0.708557844691
+	Recall : 0.8
+	F-measure : 0.779853777417
+k : 159
+	Accuracy : 0.775
+	Precision : 0.709295886076
+	Recall : 0.801666666667
+	F-measure : 0.780844155844
+k : 160
+	Accuracy : 0.775
+	Precision : 0.709295886076
+	Recall : 0.801666666667
+	F-measure : 0.780844155844
+k : 161
+	Accuracy : 0.775833333333
+	Precision : 0.709807086614
+	Recall : 0.805
+	F-measure : 0.782186234818
+k : 162
+	Accuracy : 0.773333333333
+	Precision : 0.70782010582
+	Recall : 0.798333333333
+	F-measure : 0.778861788618
+k : 163
+	Accuracy : 0.773333333333
+	Precision : 0.707371188223
+	Recall : 0.801666666667
+	F-measure : 0.779578606159
+k : 164
+	Accuracy : 0.7725
+	Precision : 0.706858161648
+	Recall : 0.798333333333
+	F-measure : 0.778229082047
+k : 165
+	Accuracy : 0.774166666667
+	Precision : 0.708107611549
+	Recall : 0.803333333333
+	F-measure : 0.780566801619
+k : 166
+	Accuracy : 0.7725
+	Precision : 0.70663507109
+	Recall : 0.8
+	F-measure : 0.778588807786
+k : 167
+	Accuracy : 0.774166666667
+	Precision : 0.708107611549
+	Recall : 0.803333333333
+	F-measure : 0.780566801619
+k : 168
+	Accuracy : 0.771666666667
+	Precision : 0.705899261603
+	Recall : 0.798333333333
+	F-measure : 0.777597402597
+k : 169
+	Accuracy : 0.773333333333
+	Precision : 0.707371188223
+	Recall : 0.801666666667
+	F-measure : 0.779578606159
+k : 170
+	Accuracy : 0.7725
+	Precision : 0.70663507109
+	Recall : 0.8
+	F-measure : 0.778588807786
+k : 171
+	Accuracy : 0.774166666667
+	Precision : 0.708107611549
+	Recall : 0.803333333333
+	F-measure : 0.780566801619
+k : 172
+	Accuracy : 0.7725
+	Precision : 0.707082670906
+	Recall : 0.796666666667
+	F-measure : 0.777868185517
+k : 173
+	Accuracy : 0.771666666667
+	Precision : 0.705678233438
+	Recall : 0.8
+	F-measure : 0.777957860616
+k : 174
+	Accuracy : 0.7725
+	Precision : 0.707082670906
+	Recall : 0.796666666667
+	F-measure : 0.777868185517
+k : 175
+	Accuracy : 0.774166666667
+	Precision : 0.708557844691
+	Recall : 0.8
+	F-measure : 0.779853777417
+k : 176
+	Accuracy : 0.774166666667
+	Precision : 0.709013822435
+	Recall : 0.796666666667
+	F-measure : 0.779136104319
+k : 177
+	Accuracy : 0.7725
+	Precision : 0.706858161648
+	Recall : 0.798333333333
+	F-measure : 0.778229082047
+k : 178
+	Accuracy : 0.770833333333
+	Precision : 0.705608718767
+	Recall : 0.793333333333
+	F-measure : 0.775876120619
+k : 179
+	Accuracy : 0.771666666667
+	Precision : 0.705899261603
+	Recall : 0.798333333333
+	F-measure : 0.777597402597
+k : 180
+	Accuracy : 0.77
+	Precision : 0.704649681529
+	Recall : 0.793333333333
+	F-measure : 0.775244299674
+k : 181
+	Accuracy : 0.7725
+	Precision : 0.706858161648
+	Recall : 0.798333333333
+	F-measure : 0.778229082047
+k : 182
+	Accuracy : 0.770833333333
+	Precision : 0.705385532591
+	Recall : 0.795
+	F-measure : 0.776240846216
+k : 183
+	Accuracy : 0.775
+	Precision : 0.709069400631
+	Recall : 0.803333333333
+	F-measure : 0.781199351702
+k : 184
+	Accuracy : 0.7725
+	Precision : 0.706858161648
+	Recall : 0.798333333333
+	F-measure : 0.778229082047
+k : 185
+	Accuracy : 0.775
+	Precision : 0.709069400631
+	Recall : 0.803333333333
+	F-measure : 0.781199351702
+k : 186
+	Accuracy : 0.775833333333
+	Precision : 0.710262810354
+	Recall : 0.801666666667
+	F-measure : 0.781478472786
+k : 187
+	Accuracy : 0.776666666667
+	Precision : 0.710772870662
+	Recall : 0.805
+	F-measure : 0.782820097245
+k : 188
+	Accuracy : 0.775833333333
+	Precision : 0.710262810354
+	Recall : 0.801666666667
+	F-measure : 0.781478472786
+k : 189
+	Accuracy : 0.776666666667
+	Precision : 0.711002109705
+	Recall : 0.803333333333
+	F-measure : 0.782467532468
+k : 190
+	Accuracy : 0.774166666667
+	Precision : 0.708785108638
+	Recall : 0.798333333333
+	F-measure : 0.779495524817
+k : 191
+	Accuracy : 0.776666666667
+	Precision : 0.710772870662
+	Recall : 0.805
+	F-measure : 0.782820097245
+k : 192
+	Accuracy : 0.775833333333
+	Precision : 0.710034228541
+	Recall : 0.803333333333
+	F-measure : 0.781832927818
+k : 193
+	Accuracy : 0.775833333333
+	Precision : 0.709807086614
+	Recall : 0.805
+	F-measure : 0.782186234818
+k : 194
+	Accuracy : 0.774166666667
+	Precision : 0.708557844691
+	Recall : 0.8
+	F-measure : 0.779853777417
+k : 195
+	Accuracy : 0.774166666667
+	Precision : 0.708107611549
+	Recall : 0.803333333333
+	F-measure : 0.780566801619
+k : 196
+	Accuracy : 0.776666666667
+	Precision : 0.711002109705
+	Recall : 0.803333333333
+	F-measure : 0.782467532468
+k : 197
+	Accuracy : 0.775833333333
+	Precision : 0.710034228541
+	Recall : 0.803333333333
+	F-measure : 0.781832927818
+k : 198
+	Accuracy : 0.7775
+	Precision : 0.711973058637
+	Recall : 0.803333333333
+	F-measure : 0.783103168156
+k : 199
+	Accuracy : 0.7775
+	Precision : 0.711511811024
+	Recall : 0.806666666667
+	F-measure : 0.783805668016
+k : 200
+	Accuracy : 0.775833333333
+	Precision : 0.710262810354
+	Recall : 0.801666666667
+	F-measure : 0.781478472786
+k : 201
+	Accuracy : 0.776666666667
+	Precision : 0.710545073375
+	Recall : 0.806666666667
+	F-measure : 0.783171521036
+k : 202
+	Accuracy : 0.7775
+	Precision : 0.711741706161
+	Recall : 0.805
+	F-measure : 0.783454987835
+k : 203
+	Accuracy : 0.776666666667
+	Precision : 0.710318704284
+	Recall : 0.808333333333
+	F-measure : 0.78352180937
+k : 204
+	Accuracy : 0.775833333333
+	Precision : 0.710262810354
+	Recall : 0.801666666667
+	F-measure : 0.781478472786
+k : 205
+	Accuracy : 0.778333333333
+	Precision : 0.712251048218
+	Recall : 0.808333333333
+	F-measure : 0.784789644013
+k : 206
+	Accuracy : 0.776666666667
+	Precision : 0.711002109705
+	Recall : 0.803333333333
+	F-measure : 0.782467532468
+k : 207
+	Accuracy : 0.775833333333
+	Precision : 0.709807086614
+	Recall : 0.805
+	F-measure : 0.782186234818
+k : 208
+	Accuracy : 0.7775
+	Precision : 0.711973058637
+	Recall : 0.803333333333
+	F-measure : 0.783103168156
+k : 209
+	Accuracy : 0.775
+	Precision : 0.709069400631
+	Recall : 0.803333333333
+	F-measure : 0.781199351702
+k : 210
+	Accuracy : 0.775
+	Precision : 0.709295886076
+	Recall : 0.801666666667
+	F-measure : 0.780844155844
+k : 211
+	Accuracy : 0.773333333333
+	Precision : 0.707371188223
+	Recall : 0.801666666667
+	F-measure : 0.779578606159
+k : 212
+	Accuracy : 0.775833333333
+	Precision : 0.710262810354
+	Recall : 0.801666666667
+	F-measure : 0.781478472786
+k : 213
+	Accuracy : 0.775833333333
+	Precision : 0.70958137101
+	Recall : 0.806666666667
+	F-measure : 0.782538399353
+k : 214
+	Accuracy : 0.775833333333
+	Precision : 0.710262810354
+	Recall : 0.801666666667
+	F-measure : 0.781478472786
+k : 215
+	Accuracy : 0.776666666667
+	Precision : 0.710545073375
+	Recall : 0.806666666667
+	F-measure : 0.783171521036
+k : 216
+	Accuracy : 0.775
+	Precision : 0.709069400631
+	Recall : 0.803333333333
+	F-measure : 0.781199351702
+k : 217
+	Accuracy : 0.7775
+	Precision : 0.711283359498
+	Recall : 0.808333333333
+	F-measure : 0.784155214228
+k : 218
+	Accuracy : 0.776666666667
+	Precision : 0.711002109705
+	Recall : 0.803333333333
+	F-measure : 0.782467532468
+k : 219
+	Accuracy : 0.778333333333
+	Precision : 0.712251048218
+	Recall : 0.808333333333
+	F-measure : 0.784789644013
+k : 220
+	Accuracy : 0.776666666667
+	Precision : 0.711002109705
+	Recall : 0.803333333333
+	F-measure : 0.782467532468
+k : 221
+	Accuracy : 0.7775
+	Precision : 0.711511811024
+	Recall : 0.806666666667
+	F-measure : 0.783805668016
+k : 222
+	Accuracy : 0.7775
+	Precision : 0.711973058637
+	Recall : 0.803333333333
+	F-measure : 0.783103168156
+k : 223
+	Accuracy : 0.776666666667
+	Precision : 0.710772870662
+	Recall : 0.805
+	F-measure : 0.782820097245
+k : 224
+	Accuracy : 0.775
+	Precision : 0.709295886076
+	Recall : 0.801666666667
+	F-measure : 0.780844155844
+k : 225
+	Accuracy : 0.7775
+	Precision : 0.711511811024
+	Recall : 0.806666666667
+	F-measure : 0.783805668016
+k : 226
+	Accuracy : 0.775833333333
+	Precision : 0.710034228541
+	Recall : 0.803333333333
+	F-measure : 0.781832927818
+k : 227
+	Accuracy : 0.776666666667
+	Precision : 0.710545073375
+	Recall : 0.806666666667
+	F-measure : 0.783171521036
+k : 228
+	Accuracy : 0.778333333333
+	Precision : 0.712481598318
+	Recall : 0.806666666667
+	F-measure : 0.784440842788
+k : 229
+	Accuracy : 0.778333333333
+	Precision : 0.712481598318
+	Recall : 0.806666666667
+	F-measure : 0.784440842788
+k : 230
+	Accuracy : 0.778333333333
+	Precision : 0.712713607595
+	Recall : 0.805
+	F-measure : 0.784090909091
+k : 231
+	Accuracy : 0.775833333333
+	Precision : 0.709807086614
+	Recall : 0.805
+	F-measure : 0.782186234818
+k : 232
+	Accuracy : 0.775833333333
+	Precision : 0.710034228541
+	Recall : 0.803333333333
+	F-measure : 0.781832927818
+k : 233
+	Accuracy : 0.776666666667
+	Precision : 0.710772870662
+	Recall : 0.805
+	F-measure : 0.782820097245
+k : 234
+	Accuracy : 0.775833333333
+	Precision : 0.710034228541
+	Recall : 0.803333333333
+	F-measure : 0.781832927818
+k : 235
+	Accuracy : 0.778333333333
+	Precision : 0.712251048218
+	Recall : 0.808333333333
+	F-measure : 0.784789644013
+k : 236
+	Accuracy : 0.775833333333
+	Precision : 0.710034228541
+	Recall : 0.803333333333
+	F-measure : 0.781832927818
+k : 237
+	Accuracy : 0.776666666667
+	Precision : 0.710545073375
+	Recall : 0.806666666667
+	F-measure : 0.783171521036
+k : 238
+	Accuracy : 0.774166666667
+	Precision : 0.708332016851
+	Recall : 0.801666666667
+	F-measure : 0.780210867802
+k : 239
+	Accuracy : 0.775833333333
+	Precision : 0.709807086614
+	Recall : 0.805
+	F-measure : 0.782186234818
+k : 240
+	Accuracy : 0.775
+	Precision : 0.709069400631
+	Recall : 0.803333333333
+	F-measure : 0.781199351702
+k : 241
+	Accuracy : 0.775833333333
+	Precision : 0.70958137101
+	Recall : 0.806666666667
+	F-measure : 0.782538399353
+k : 242
+	Accuracy : 0.776666666667
+	Precision : 0.711002109705
+	Recall : 0.803333333333
+	F-measure : 0.782467532468
+k : 243
+	Accuracy : 0.775833333333
+	Precision : 0.709807086614
+	Recall : 0.805
+	F-measure : 0.782186234818
+k : 244
+	Accuracy : 0.776666666667
+	Precision : 0.711002109705
+	Recall : 0.803333333333
+	F-measure : 0.782467532468
+k : 245
+	Accuracy : 0.7775
+	Precision : 0.711511811024
+	Recall : 0.806666666667
+	F-measure : 0.783805668016
+k : 246
+	Accuracy : 0.776666666667
+	Precision : 0.710772870662
+	Recall : 0.805
+	F-measure : 0.782820097245
+k : 247
+	Accuracy : 0.7775
+	Precision : 0.711283359498
+	Recall : 0.808333333333
+	F-measure : 0.784155214228
+k : 248
+	Accuracy : 0.775
+	Precision : 0.709069400631
+	Recall : 0.803333333333
+	F-measure : 0.781199351702
+k : 249
+	Accuracy : 0.776666666667
+	Precision : 0.710545073375
+	Recall : 0.806666666667
+	F-measure : 0.783171521036
+k : 250
+	Accuracy : 0.775833333333
+	Precision : 0.710034228541
+	Recall : 0.803333333333
+	F-measure : 0.781832927818

@@ -1,0 +1,25 @@
+The features are selected based on the criteria that : |coefficient or weights| > k*standard_deviation of coefficients(learned) from mean of the coeficients(learned).
+The results obtained are as follows : 
+
+For k : 0, Average Residual Error : 1.24972983522, No. of features considered : 123
+For k : 0.01, Average Residual Error : 1.24971771411, No. of features considered : 121
+For k : 0.02, Average Residual Error : 1.24970496076, No. of features considered : 121
+For k : 0.03, Average Residual Error : 1.24956151459, No. of features considered : 120
+For k : 0.04, Average Residual Error : 1.24915440536, No. of features considered : 120
+For k : 0.05, Average Residual Error : 1.24947146764, No. of features considered : 119
+For k : 0.06, Average Residual Error : 1.24956544815, No. of features considered : 119
+For k : 0.07, Average Residual Error : 1.24991152266, No. of features considered : 119
+For k : 0.08, Average Residual Error : 1.25025193808, No. of features considered : 117
+For k : 0.09, Average Residual Error : 1.25041823393, No. of features considered : 117
+For k : 0.1, Average Residual Error : 1.25091907971, No. of features considered : 116
+For k : 0.11, Average Residual Error : 1.25090635301, No. of features considered : 116
+For k : 0.12, Average Residual Error : 1.25103776302, No. of features considered : 111
+For k : 0.13, Average Residual Error : 1.25157826444, No. of features considered : 111
+For k : 0.14, Average Residual Error : 1.25153335466, No. of features considered : 111
+For k : 0.15, Average Residual Error : 1.25143185701, No. of features considered : 109
+For k : 0.16, Average Residual Error : 1.25143433736, No. of features considered : 107
+For k : 0.17, Average Residual Error : 1.25229558089, No. of features considered : 106
+For k : 0.18, Average Residual Error : 1.25237149218, No. of features considered : 105
+For k : 0.19, Average Residual Error : 1.25115163916, No. of features considered : 105
+
+Minimal error : 1.24915440536 when k = 0.04 

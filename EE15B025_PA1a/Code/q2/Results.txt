@@ -1,0 +1,5 @@
+
+Accuracy : 0.9575
+Precision : 0.939108040201
+Recall : 0.955
+F-measure : 0.957393483709
