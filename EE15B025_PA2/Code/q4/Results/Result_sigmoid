@@ -1,0 +1,2352 @@
+
+
+For C = 0.01 and	 Gamma = 0.0111020408163	 Coef0 = 0.0	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.01 and	 Gamma = 0.0111020408163	 Coef0 = 0.01	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.01 and	 Gamma = 0.0111020408163	 Coef0 = 2.14285714286	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.01 and	 Gamma = 0.0111020408163	 Coef0 = 7.15142857143	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.01 and	 Gamma = 0.021387755102	 Coef0 = 0.0	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.01 and	 Gamma = 0.021387755102	 Coef0 = 0.01	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.01 and	 Gamma = 0.021387755102	 Coef0 = 2.14285714286	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.01 and	 Gamma = 0.021387755102	 Coef0 = 7.15142857143	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.01 and	 Gamma = 0.1	 Coef0 = 0.0	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.01 and	 Gamma = 0.1	 Coef0 = 0.01	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.01 and	 Gamma = 0.1	 Coef0 = 2.14285714286	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.01 and	 Gamma = 0.1	 Coef0 = 7.15142857143	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.01 and	 Gamma = 0.501351351351	 Coef0 = 0.0	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.01 and	 Gamma = 0.501351351351	 Coef0 = 0.01	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.01 and	 Gamma = 0.501351351351	 Coef0 = 2.14285714286	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.01 and	 Gamma = 0.501351351351	 Coef0 = 7.15142857143	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.01 and	 Gamma = 0.5125	 Coef0 = 0.0	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.01 and	 Gamma = 0.5125	 Coef0 = 0.01	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.01 and	 Gamma = 0.5125	 Coef0 = 2.14285714286	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.01 and	 Gamma = 0.5125	 Coef0 = 7.15142857143	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.01 and	 Gamma = 8.0	 Coef0 = 0.0	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.01 and	 Gamma = 8.0	 Coef0 = 0.01	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.01 and	 Gamma = 8.0	 Coef0 = 2.14285714286	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.01 and	 Gamma = 8.0	 Coef0 = 7.15142857143	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.01 and	 Gamma = 10.5352631579	 Coef0 = 0.0	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.01 and	 Gamma = 10.5352631579	 Coef0 = 0.01	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.01 and	 Gamma = 10.5352631579	 Coef0 = 2.14285714286	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.01 and	 Gamma = 10.5352631579	 Coef0 = 7.15142857143	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.0164285714286 and	 Gamma = 0.0111020408163	 Coef0 = 0.0	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.0164285714286 and	 Gamma = 0.0111020408163	 Coef0 = 0.01	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.0164285714286 and	 Gamma = 0.0111020408163	 Coef0 = 2.14285714286	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.0164285714286 and	 Gamma = 0.0111020408163	 Coef0 = 7.15142857143	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.0164285714286 and	 Gamma = 0.021387755102	 Coef0 = 0.0	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.0164285714286 and	 Gamma = 0.021387755102	 Coef0 = 0.01	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.0164285714286 and	 Gamma = 0.021387755102	 Coef0 = 2.14285714286	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.0164285714286 and	 Gamma = 0.021387755102	 Coef0 = 7.15142857143	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.0164285714286 and	 Gamma = 0.1	 Coef0 = 0.0	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.0164285714286 and	 Gamma = 0.1	 Coef0 = 0.01	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.0164285714286 and	 Gamma = 0.1	 Coef0 = 2.14285714286	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.0164285714286 and	 Gamma = 0.1	 Coef0 = 7.15142857143	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.0164285714286 and	 Gamma = 0.501351351351	 Coef0 = 0.0	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.0164285714286 and	 Gamma = 0.501351351351	 Coef0 = 0.01	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.0164285714286 and	 Gamma = 0.501351351351	 Coef0 = 2.14285714286	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.0164285714286 and	 Gamma = 0.501351351351	 Coef0 = 7.15142857143	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.0164285714286 and	 Gamma = 0.5125	 Coef0 = 0.0	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.0164285714286 and	 Gamma = 0.5125	 Coef0 = 0.01	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.0164285714286 and	 Gamma = 0.5125	 Coef0 = 2.14285714286	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.0164285714286 and	 Gamma = 0.5125	 Coef0 = 7.15142857143	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.0164285714286 and	 Gamma = 8.0	 Coef0 = 0.0	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.0164285714286 and	 Gamma = 8.0	 Coef0 = 0.01	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.0164285714286 and	 Gamma = 8.0	 Coef0 = 2.14285714286	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.0164285714286 and	 Gamma = 8.0	 Coef0 = 7.15142857143	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.0164285714286 and	 Gamma = 10.5352631579	 Coef0 = 0.0	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.0164285714286 and	 Gamma = 10.5352631579	 Coef0 = 0.01	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.0164285714286 and	 Gamma = 10.5352631579	 Coef0 = 2.14285714286	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.0164285714286 and	 Gamma = 10.5352631579	 Coef0 = 7.15142857143	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.1 and	 Gamma = 0.0111020408163	 Coef0 = 0.0	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.1 and	 Gamma = 0.0111020408163	 Coef0 = 0.01	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.1 and	 Gamma = 0.0111020408163	 Coef0 = 2.14285714286	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.1 and	 Gamma = 0.0111020408163	 Coef0 = 7.15142857143	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.1 and	 Gamma = 0.021387755102	 Coef0 = 0.0	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.1 and	 Gamma = 0.021387755102	 Coef0 = 0.01	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.1 and	 Gamma = 0.021387755102	 Coef0 = 2.14285714286	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.1 and	 Gamma = 0.021387755102	 Coef0 = 7.15142857143	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.1 and	 Gamma = 0.1	 Coef0 = 0.0	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.1 and	 Gamma = 0.1	 Coef0 = 0.01	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.1 and	 Gamma = 0.1	 Coef0 = 2.14285714286	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.1 and	 Gamma = 0.1	 Coef0 = 7.15142857143	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.1 and	 Gamma = 0.501351351351	 Coef0 = 0.0	 : Average Accuracy = 0.423334771532
+
+             precision    recall  f1-score   support
+
+      coast       0.39      0.35      0.37        20
+     forest       0.53      0.90      0.67        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.50      0.70      0.58        20
+
+avg / total       0.35      0.49      0.40        80
+
+
+For C = 0.1 and	 Gamma = 0.501351351351	 Coef0 = 0.01	 : Average Accuracy = 0.421354379376
+
+             precision    recall  f1-score   support
+
+      coast       0.39      0.35      0.37        20
+     forest       0.53      0.90      0.67        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.50      0.70      0.58        20
+
+avg / total       0.35      0.49      0.40        80
+
+
+For C = 0.1 and	 Gamma = 0.501351351351	 Coef0 = 2.14285714286	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.1 and	 Gamma = 0.501351351351	 Coef0 = 7.15142857143	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.1 and	 Gamma = 0.5125	 Coef0 = 0.0	 : Average Accuracy = 0.425324870542
+
+             precision    recall  f1-score   support
+
+      coast       0.39      0.35      0.37        20
+     forest       0.53      0.90      0.67        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.50      0.70      0.58        20
+
+avg / total       0.35      0.49      0.40        80
+
+
+For C = 0.1 and	 Gamma = 0.5125	 Coef0 = 0.01	 : Average Accuracy = 0.421334771532
+
+             precision    recall  f1-score   support
+
+      coast       0.39      0.35      0.37        20
+     forest       0.53      0.90      0.67        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.50      0.70      0.58        20
+
+avg / total       0.35      0.49      0.40        80
+
+
+For C = 0.1 and	 Gamma = 0.5125	 Coef0 = 2.14285714286	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.1 and	 Gamma = 0.5125	 Coef0 = 7.15142857143	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.1 and	 Gamma = 8.0	 Coef0 = 0.0	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.1 and	 Gamma = 8.0	 Coef0 = 0.01	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.1 and	 Gamma = 8.0	 Coef0 = 2.14285714286	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.1 and	 Gamma = 8.0	 Coef0 = 7.15142857143	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.1 and	 Gamma = 10.5352631579	 Coef0 = 0.0	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.1 and	 Gamma = 10.5352631579	 Coef0 = 0.01	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.1 and	 Gamma = 10.5352631579	 Coef0 = 2.14285714286	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 0.1 and	 Gamma = 10.5352631579	 Coef0 = 7.15142857143	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 3.31081081081 and	 Gamma = 0.0111020408163	 Coef0 = 0.0	 : Average Accuracy = 0.479934556001
+
+             precision    recall  f1-score   support
+
+      coast       0.39      0.35      0.37        20
+     forest       0.55      0.90      0.68        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.52      0.75      0.61        20
+
+avg / total       0.36      0.50      0.41        80
+
+
+For C = 3.31081081081 and	 Gamma = 0.0111020408163	 Coef0 = 0.01	 : Average Accuracy = 0.479934556001
+
+             precision    recall  f1-score   support
+
+      coast       0.39      0.35      0.37        20
+     forest       0.55      0.90      0.68        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.52      0.75      0.61        20
+
+avg / total       0.36      0.50      0.41        80
+
+
+For C = 3.31081081081 and	 Gamma = 0.0111020408163	 Coef0 = 2.14285714286	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 3.31081081081 and	 Gamma = 0.0111020408163	 Coef0 = 7.15142857143	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 3.31081081081 and	 Gamma = 0.021387755102	 Coef0 = 0.0	 : Average Accuracy = 0.540525239799
+
+             precision    recall  f1-score   support
+
+      coast       0.60      0.60      0.60        20
+     forest       0.68      0.85      0.76        20
+inside city       0.59      0.50      0.54        20
+   mountain       0.72      0.65      0.68        20
+
+avg / total       0.65      0.65      0.65        80
+
+
+For C = 3.31081081081 and	 Gamma = 0.021387755102	 Coef0 = 0.01	 : Average Accuracy = 0.540525239799
+
+             precision    recall  f1-score   support
+
+      coast       0.60      0.60      0.60        20
+     forest       0.68      0.85      0.76        20
+inside city       0.59      0.50      0.54        20
+   mountain       0.72      0.65      0.68        20
+
+avg / total       0.65      0.65      0.65        80
+
+
+For C = 3.31081081081 and	 Gamma = 0.021387755102	 Coef0 = 2.14285714286	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 3.31081081081 and	 Gamma = 0.021387755102	 Coef0 = 7.15142857143	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 3.31081081081 and	 Gamma = 0.1	 Coef0 = 0.0	 : Average Accuracy = 0.57833238642
+
+             precision    recall  f1-score   support
+
+      coast       0.50      0.60      0.55        20
+     forest       0.76      0.80      0.78        20
+inside city       0.61      0.70      0.65        20
+   mountain       0.75      0.45      0.56        20
+
+avg / total       0.66      0.64      0.63        80
+
+
+For C = 3.31081081081 and	 Gamma = 0.1	 Coef0 = 0.01	 : Average Accuracy = 0.577351994263
+
+             precision    recall  f1-score   support
+
+      coast       0.50      0.60      0.55        20
+     forest       0.76      0.80      0.78        20
+inside city       0.61      0.70      0.65        20
+   mountain       0.75      0.45      0.56        20
+
+avg / total       0.66      0.64      0.63        80
+
+
+For C = 3.31081081081 and	 Gamma = 0.1	 Coef0 = 2.14285714286	 : Average Accuracy = 0.31022537728
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.89      0.40      0.55        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.28      1.00      0.44        20
+
+avg / total       0.29      0.35      0.25        80
+
+
+For C = 3.31081081081 and	 Gamma = 0.1	 Coef0 = 7.15142857143	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 3.31081081081 and	 Gamma = 0.501351351351	 Coef0 = 0.0	 : Average Accuracy = 0.348879159585
+
+             precision    recall  f1-score   support
+
+      coast       0.30      0.70      0.42        20
+     forest       0.75      0.60      0.67        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.62      0.25      0.36        20
+
+avg / total       0.42      0.39      0.36        80
+
+
+For C = 3.31081081081 and	 Gamma = 0.501351351351	 Coef0 = 0.01	 : Average Accuracy = 0.348859745879
+
+             precision    recall  f1-score   support
+
+      coast       0.30      0.70      0.42        20
+     forest       0.75      0.60      0.67        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.62      0.25      0.36        20
+
+avg / total       0.42      0.39      0.36        80
+
+
+For C = 3.31081081081 and	 Gamma = 0.501351351351	 Coef0 = 2.14285714286	 : Average Accuracy = 0.397549851624
+
+             precision    recall  f1-score   support
+
+      coast       0.12      0.05      0.07        20
+     forest       0.58      0.95      0.72        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.41      0.80      0.54        20
+
+avg / total       0.28      0.45      0.33        80
+
+
+For C = 3.31081081081 and	 Gamma = 0.501351351351	 Coef0 = 7.15142857143	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 3.31081081081 and	 Gamma = 0.5125	 Coef0 = 0.0	 : Average Accuracy = 0.346819729872
+
+             precision    recall  f1-score   support
+
+      coast       0.30      0.70      0.42        20
+     forest       0.75      0.60      0.67        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.57      0.20      0.30        20
+
+avg / total       0.40      0.38      0.35        80
+
+
+For C = 3.31081081081 and	 Gamma = 0.5125	 Coef0 = 0.01	 : Average Accuracy = 0.342839531852
+
+             precision    recall  f1-score   support
+
+      coast       0.31      0.70      0.43        20
+     forest       0.71      0.60      0.65        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.62      0.25      0.36        20
+
+avg / total       0.41      0.39      0.36        80
+
+
+For C = 3.31081081081 and	 Gamma = 0.5125	 Coef0 = 2.14285714286	 : Average Accuracy = 0.399530243781
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.58      0.95      0.72        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.40      0.80      0.53        20
+
+avg / total       0.24      0.44      0.31        80
+
+
+For C = 3.31081081081 and	 Gamma = 0.5125	 Coef0 = 7.15142857143	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 3.31081081081 and	 Gamma = 8.0	 Coef0 = 0.0	 : Average Accuracy = 0.276369113982
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 3.31081081081 and	 Gamma = 8.0	 Coef0 = 0.01	 : Average Accuracy = 0.276369113982
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 3.31081081081 and	 Gamma = 8.0	 Coef0 = 2.14285714286	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 3.31081081081 and	 Gamma = 8.0	 Coef0 = 7.15142857143	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 3.31081081081 and	 Gamma = 10.5352631579	 Coef0 = 0.0	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 3.31081081081 and	 Gamma = 10.5352631579	 Coef0 = 0.01	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 3.31081081081 and	 Gamma = 10.5352631579	 Coef0 = 2.14285714286	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 3.31081081081 and	 Gamma = 10.5352631579	 Coef0 = 7.15142857143	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 4.71423423423 and	 Gamma = 0.0111020408163	 Coef0 = 0.0	 : Average Accuracy = 0.522541234316
+
+             precision    recall  f1-score   support
+
+      coast       0.53      0.45      0.49        20
+     forest       0.61      0.85      0.71        20
+inside city       0.58      0.35      0.44        20
+   mountain       0.61      0.70      0.65        20
+
+avg / total       0.58      0.59      0.57        80
+
+
+For C = 4.71423423423 and	 Gamma = 0.0111020408163	 Coef0 = 0.01	 : Average Accuracy = 0.521560842159
+
+             precision    recall  f1-score   support
+
+      coast       0.53      0.45      0.49        20
+     forest       0.61      0.85      0.71        20
+inside city       0.58      0.35      0.44        20
+   mountain       0.61      0.70      0.65        20
+
+avg / total       0.58      0.59      0.57        80
+
+
+For C = 4.71423423423 and	 Gamma = 0.0111020408163	 Coef0 = 2.14285714286	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 4.71423423423 and	 Gamma = 0.0111020408163	 Coef0 = 7.15142857143	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 4.71423423423 and	 Gamma = 0.021387755102	 Coef0 = 0.0	 : Average Accuracy = 0.551587264609
+
+             precision    recall  f1-score   support
+
+      coast       0.59      0.50      0.54        20
+     forest       0.68      0.85      0.76        20
+inside city       0.60      0.60      0.60        20
+   mountain       0.72      0.65      0.68        20
+
+avg / total       0.65      0.65      0.65        80
+
+
+For C = 4.71423423423 and	 Gamma = 0.021387755102	 Coef0 = 0.01	 : Average Accuracy = 0.551587264609
+
+             precision    recall  f1-score   support
+
+      coast       0.59      0.50      0.54        20
+     forest       0.68      0.85      0.76        20
+inside city       0.60      0.60      0.60        20
+   mountain       0.72      0.65      0.68        20
+
+avg / total       0.65      0.65      0.65        80
+
+
+For C = 4.71423423423 and	 Gamma = 0.021387755102	 Coef0 = 2.14285714286	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 4.71423423423 and	 Gamma = 0.021387755102	 Coef0 = 7.15142857143	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 4.71423423423 and	 Gamma = 0.1	 Coef0 = 0.0	 : Average Accuracy = 0.585204838371
+
+             precision    recall  f1-score   support
+
+      coast       0.44      0.60      0.51        20
+     forest       0.76      0.80      0.78        20
+inside city       0.57      0.60      0.59        20
+   mountain       0.64      0.35      0.45        20
+
+avg / total       0.60      0.59      0.58        80
+
+
+For C = 4.71423423423 and	 Gamma = 0.1	 Coef0 = 0.01	 : Average Accuracy = 0.584224446214
+
+             precision    recall  f1-score   support
+
+      coast       0.44      0.60      0.51        20
+     forest       0.76      0.80      0.78        20
+inside city       0.57      0.60      0.59        20
+   mountain       0.64      0.35      0.45        20
+
+avg / total       0.60      0.59      0.58        80
+
+
+For C = 4.71423423423 and	 Gamma = 0.1	 Coef0 = 2.14285714286	 : Average Accuracy = 0.431535675656
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.64      0.90      0.75        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.35      0.90      0.50        20
+
+avg / total       0.25      0.45      0.31        80
+
+
+For C = 4.71423423423 and	 Gamma = 0.1	 Coef0 = 7.15142857143	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 4.71423423423 and	 Gamma = 0.501351351351	 Coef0 = 0.0	 : Average Accuracy = 0.340871635783
+
+             precision    recall  f1-score   support
+
+      coast       0.32      0.65      0.43        20
+     forest       0.61      0.70      0.65        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.50      0.15      0.23        20
+
+avg / total       0.36      0.38      0.33        80
+
+
+For C = 4.71423423423 and	 Gamma = 0.501351351351	 Coef0 = 0.01	 : Average Accuracy = 0.340901944936
+
+             precision    recall  f1-score   support
+
+      coast       0.32      0.65      0.43        20
+     forest       0.61      0.70      0.65        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.50      0.15      0.23        20
+
+avg / total       0.36      0.38      0.33        80
+
+
+For C = 4.71423423423 and	 Gamma = 0.501351351351	 Coef0 = 2.14285714286	 : Average Accuracy = 0.411382893752
+
+             precision    recall  f1-score   support
+
+      coast       0.34      0.55      0.42        20
+     forest       0.56      0.90      0.69        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.69      0.55      0.61        20
+
+avg / total       0.40      0.50      0.43        80
+
+
+For C = 4.71423423423 and	 Gamma = 0.501351351351	 Coef0 = 7.15142857143	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 4.71423423423 and	 Gamma = 0.5125	 Coef0 = 0.0	 : Average Accuracy = 0.35283142564
+
+             precision    recall  f1-score   support
+
+      coast       0.33      0.65      0.44        20
+     forest       0.58      0.70      0.64        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.50      0.15      0.23        20
+
+avg / total       0.35      0.38      0.33        80
+
+
+For C = 4.71423423423 and	 Gamma = 0.5125	 Coef0 = 0.01	 : Average Accuracy = 0.348860134153
+
+             precision    recall  f1-score   support
+
+      coast       0.33      0.70      0.45        20
+     forest       0.60      0.75      0.67        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.57      0.20      0.30        20
+
+avg / total       0.38      0.41      0.35        80
+
+
+For C = 4.71423423423 and	 Gamma = 0.5125	 Coef0 = 2.14285714286	 : Average Accuracy = 0.411382893752
+
+             precision    recall  f1-score   support
+
+      coast       0.34      0.55      0.42        20
+     forest       0.56      0.90      0.69        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.69      0.55      0.61        20
+
+avg / total       0.40      0.50      0.43        80
+
+
+For C = 4.71423423423 and	 Gamma = 0.5125	 Coef0 = 7.15142857143	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 4.71423423423 and	 Gamma = 8.0	 Coef0 = 0.0	 : Average Accuracy = 0.268348705819
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 4.71423423423 and	 Gamma = 8.0	 Coef0 = 0.01	 : Average Accuracy = 0.267348705819
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 4.71423423423 and	 Gamma = 8.0	 Coef0 = 2.14285714286	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 4.71423423423 and	 Gamma = 8.0	 Coef0 = 7.15142857143	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 4.71423423423 and	 Gamma = 10.5352631579	 Coef0 = 0.0	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 4.71423423423 and	 Gamma = 10.5352631579	 Coef0 = 0.01	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 4.71423423423 and	 Gamma = 10.5352631579	 Coef0 = 2.14285714286	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 4.71423423423 and	 Gamma = 10.5352631579	 Coef0 = 7.15142857143	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 94.7373684211 and	 Gamma = 0.0111020408163	 Coef0 = 0.0	 : Average Accuracy = 0.598987769365
+
+             precision    recall  f1-score   support
+
+      coast       0.48      0.60      0.53        20
+     forest       0.79      0.75      0.77        20
+inside city       0.62      0.75      0.68        20
+   mountain       0.58      0.35      0.44        20
+
+avg / total       0.62      0.61      0.61        80
+
+
+For C = 94.7373684211 and	 Gamma = 0.0111020408163	 Coef0 = 0.01	 : Average Accuracy = 0.597987769365
+
+             precision    recall  f1-score   support
+
+      coast       0.48      0.60      0.53        20
+     forest       0.79      0.75      0.77        20
+inside city       0.62      0.75      0.68        20
+   mountain       0.58      0.35      0.44        20
+
+avg / total       0.62      0.61      0.61        80
+
+
+For C = 94.7373684211 and	 Gamma = 0.0111020408163	 Coef0 = 2.14285714286	 : Average Accuracy = 0.529532739829
+
+             precision    recall  f1-score   support
+
+      coast       0.61      0.55      0.58        20
+     forest       0.61      0.85      0.71        20
+inside city       0.62      0.40      0.48        20
+   mountain       0.67      0.70      0.68        20
+
+avg / total       0.63      0.62      0.61        80
+
+
+For C = 94.7373684211 and	 Gamma = 0.0111020408163	 Coef0 = 7.15142857143	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 94.7373684211 and	 Gamma = 0.021387755102	 Coef0 = 0.0	 : Average Accuracy = 0.59814543243
+
+             precision    recall  f1-score   support
+
+      coast       0.50      0.55      0.52        20
+     forest       0.78      0.70      0.74        20
+inside city       0.58      0.70      0.64        20
+   mountain       0.62      0.50      0.56        20
+
+avg / total       0.62      0.61      0.61        80
+
+
+For C = 94.7373684211 and	 Gamma = 0.021387755102	 Coef0 = 0.01	 : Average Accuracy = 0.597125024267
+
+             precision    recall  f1-score   support
+
+      coast       0.50      0.55      0.52        20
+     forest       0.78      0.70      0.74        20
+inside city       0.58      0.70      0.64        20
+   mountain       0.62      0.50      0.56        20
+
+avg / total       0.62      0.61      0.61        80
+
+
+For C = 94.7373684211 and	 Gamma = 0.021387755102	 Coef0 = 2.14285714286	 : Average Accuracy = 0.546626480295
+
+             precision    recall  f1-score   support
+
+      coast       0.53      0.50      0.51        20
+     forest       0.68      0.85      0.76        20
+inside city       0.60      0.60      0.60        20
+   mountain       0.69      0.55      0.61        20
+
+avg / total       0.62      0.62      0.62        80
+
+
+For C = 94.7373684211 and	 Gamma = 0.021387755102	 Coef0 = 7.15142857143	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 94.7373684211 and	 Gamma = 0.1	 Coef0 = 0.0	 : Average Accuracy = 0.5409114735
+
+             precision    recall  f1-score   support
+
+      coast       0.38      0.75      0.50        20
+     forest       0.80      0.60      0.69        20
+inside city       0.40      0.30      0.34        20
+   mountain       0.60      0.30      0.40        20
+
+avg / total       0.54      0.49      0.48        80
+
+
+For C = 94.7373684211 and	 Gamma = 0.1	 Coef0 = 0.01	 : Average Accuracy = 0.541792225801
+
+             precision    recall  f1-score   support
+
+      coast       0.36      0.75      0.48        20
+     forest       0.86      0.60      0.71        20
+inside city       0.31      0.20      0.24        20
+   mountain       0.73      0.40      0.52        20
+
+avg / total       0.56      0.49      0.49        80
+
+
+For C = 94.7373684211 and	 Gamma = 0.1	 Coef0 = 2.14285714286	 : Average Accuracy = 0.54355734373
+
+             precision    recall  f1-score   support
+
+      coast       0.39      0.60      0.47        20
+     forest       0.71      0.75      0.73        20
+inside city       0.53      0.45      0.49        20
+   mountain       0.73      0.40      0.52        20
+
+avg / total       0.59      0.55      0.55        80
+
+
+For C = 94.7373684211 and	 Gamma = 0.1	 Coef0 = 7.15142857143	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 94.7373684211 and	 Gamma = 0.501351351351	 Coef0 = 0.0	 : Average Accuracy = 0.308380033201
+
+             precision    recall  f1-score   support
+
+      coast       0.30      0.80      0.44        20
+     forest       0.82      0.45      0.58        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.67      0.30      0.41        20
+
+avg / total       0.45      0.39      0.36        80
+
+
+For C = 94.7373684211 and	 Gamma = 0.501351351351	 Coef0 = 0.01	 : Average Accuracy = 0.309349918185
+
+             precision    recall  f1-score   support
+
+      coast       0.31      0.80      0.44        20
+     forest       0.75      0.45      0.56        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.70      0.35      0.47        20
+
+avg / total       0.44      0.40      0.37        80
+
+
+For C = 94.7373684211 and	 Gamma = 0.501351351351	 Coef0 = 2.14285714286	 : Average Accuracy = 0.325112246879
+
+             precision    recall  f1-score   support
+
+      coast       0.31      0.75      0.43        20
+     forest       0.64      0.45      0.53        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.56      0.25      0.34        20
+
+avg / total       0.38      0.36      0.33        80
+
+
+For C = 94.7373684211 and	 Gamma = 0.501351351351	 Coef0 = 7.15142857143	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 94.7373684211 and	 Gamma = 0.5125	 Coef0 = 0.0	 : Average Accuracy = 0.305390128329
+
+             precision    recall  f1-score   support
+
+      coast       0.31      0.80      0.44        20
+     forest       0.75      0.45      0.56        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.70      0.35      0.47        20
+
+avg / total       0.44      0.40      0.37        80
+
+
+For C = 94.7373684211 and	 Gamma = 0.5125	 Coef0 = 0.01	 : Average Accuracy = 0.302409930309
+
+             precision    recall  f1-score   support
+
+      coast       0.31      0.80      0.45        20
+     forest       0.75      0.45      0.56        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.70      0.35      0.47        20
+
+avg / total       0.44      0.40      0.37        80
+
+
+For C = 94.7373684211 and	 Gamma = 0.5125	 Coef0 = 2.14285714286	 : Average Accuracy = 0.313229069846
+
+             precision    recall  f1-score   support
+
+      coast       0.31      0.75      0.43        20
+     forest       0.64      0.45      0.53        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.56      0.25      0.34        20
+
+avg / total       0.38      0.36      0.33        80
+
+
+For C = 94.7373684211 and	 Gamma = 0.5125	 Coef0 = 7.15142857143	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 94.7373684211 and	 Gamma = 8.0	 Coef0 = 0.0	 : Average Accuracy = 0.234544348432
+
+             precision    recall  f1-score   support
+
+      coast       0.25      0.80      0.39        20
+     forest       0.45      0.25      0.32        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.00      0.00      0.00        20
+
+avg / total       0.18      0.26      0.18        80
+
+
+For C = 94.7373684211 and	 Gamma = 8.0	 Coef0 = 0.01	 : Average Accuracy = 0.236523746132
+
+             precision    recall  f1-score   support
+
+      coast       0.26      0.90      0.41        20
+     forest       0.33      0.10      0.15        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.00      0.00      0.00        20
+
+avg / total       0.15      0.25      0.14        80
+
+
+For C = 94.7373684211 and	 Gamma = 8.0	 Coef0 = 2.14285714286	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 94.7373684211 and	 Gamma = 8.0	 Coef0 = 7.15142857143	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 94.7373684211 and	 Gamma = 10.5352631579	 Coef0 = 0.0	 : Average Accuracy = 0.245424324185
+
+             precision    recall  f1-score   support
+
+      coast       0.26      0.95      0.40        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.17      0.05      0.08        20
+
+avg / total       0.11      0.25      0.12        80
+
+
+For C = 94.7373684211 and	 Gamma = 10.5352631579	 Coef0 = 0.01	 : Average Accuracy = 0.246424324185
+
+             precision    recall  f1-score   support
+
+      coast       0.26      0.95      0.40        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.17      0.05      0.08        20
+
+avg / total       0.11      0.25      0.12        80
+
+
+For C = 94.7373684211 and	 Gamma = 10.5352631579	 Coef0 = 2.14285714286	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 94.7373684211 and	 Gamma = 10.5352631579	 Coef0 = 7.15142857143	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 500.0 and	 Gamma = 0.0111020408163	 Coef0 = 0.0	 : Average Accuracy = 0.61820745724
+
+             precision    recall  f1-score   support
+
+      coast       0.59      0.50      0.54        20
+     forest       0.71      0.60      0.65        20
+inside city       0.59      0.80      0.68        20
+   mountain       0.58      0.55      0.56        20
+
+avg / total       0.62      0.61      0.61        80
+
+
+For C = 500.0 and	 Gamma = 0.0111020408163	 Coef0 = 0.01	 : Average Accuracy = 0.61720745724
+
+             precision    recall  f1-score   support
+
+      coast       0.59      0.50      0.54        20
+     forest       0.71      0.60      0.65        20
+inside city       0.59      0.80      0.68        20
+   mountain       0.58      0.55      0.56        20
+
+avg / total       0.62      0.61      0.61        80
+
+
+For C = 500.0 and	 Gamma = 0.0111020408163	 Coef0 = 2.14285714286	 : Average Accuracy = 0.579361895253
+
+             precision    recall  f1-score   support
+
+      coast       0.50      0.55      0.52        20
+     forest       0.77      0.85      0.81        20
+inside city       0.58      0.70      0.64        20
+   mountain       0.75      0.45      0.56        20
+
+avg / total       0.65      0.64      0.63        80
+
+
+For C = 500.0 and	 Gamma = 0.0111020408163	 Coef0 = 7.15142857143	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 500.0 and	 Gamma = 0.021387755102	 Coef0 = 0.0	 : Average Accuracy = 0.605415619713
+
+             precision    recall  f1-score   support
+
+      coast       0.50      0.50      0.50        20
+     forest       0.72      0.65      0.68        20
+inside city       0.55      0.60      0.57        20
+   mountain       0.55      0.55      0.55        20
+
+avg / total       0.58      0.57      0.58        80
+
+
+For C = 500.0 and	 Gamma = 0.021387755102	 Coef0 = 0.01	 : Average Accuracy = 0.604445128546
+
+             precision    recall  f1-score   support
+
+      coast       0.50      0.50      0.50        20
+     forest       0.72      0.65      0.68        20
+inside city       0.55      0.60      0.57        20
+   mountain       0.55      0.55      0.55        20
+
+avg / total       0.58      0.57      0.58        80
+
+
+For C = 500.0 and	 Gamma = 0.021387755102	 Coef0 = 2.14285714286	 : Average Accuracy = 0.590145020384
+
+             precision    recall  f1-score   support
+
+      coast       0.43      0.60      0.50        20
+     forest       0.76      0.80      0.78        20
+inside city       0.60      0.60      0.60        20
+   mountain       0.64      0.35      0.45        20
+
+avg / total       0.61      0.59      0.58        80
+
+
+For C = 500.0 and	 Gamma = 0.021387755102	 Coef0 = 7.15142857143	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 500.0 and	 Gamma = 0.1	 Coef0 = 0.0	 : Average Accuracy = 0.47912150999
+
+             precision    recall  f1-score   support
+
+      coast       0.33      0.80      0.46        20
+     forest       0.86      0.60      0.71        20
+inside city       0.25      0.10      0.14        20
+   mountain       0.78      0.35      0.48        20
+
+avg / total       0.55      0.46      0.45        80
+
+
+For C = 500.0 and	 Gamma = 0.1	 Coef0 = 0.01	 : Average Accuracy = 0.471239351186
+
+             precision    recall  f1-score   support
+
+      coast       0.32      0.75      0.45        20
+     forest       0.86      0.60      0.71        20
+inside city       0.22      0.10      0.14        20
+   mountain       0.70      0.35      0.47        20
+
+avg / total       0.52      0.45      0.44        80
+
+
+For C = 500.0 and	 Gamma = 0.1	 Coef0 = 2.14285714286	 : Average Accuracy = 0.459345302477
+
+             precision    recall  f1-score   support
+
+      coast       0.35      0.75      0.48        20
+     forest       0.80      0.60      0.69        20
+inside city       0.27      0.15      0.19        20
+   mountain       0.73      0.40      0.52        20
+
+avg / total       0.54      0.47      0.47        80
+
+
+For C = 500.0 and	 Gamma = 0.1	 Coef0 = 7.15142857143	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 500.0 and	 Gamma = 0.501351351351	 Coef0 = 0.0	 : Average Accuracy = 0.298419248888
+
+             precision    recall  f1-score   support
+
+      coast       0.31      0.80      0.44        20
+     forest       0.75      0.45      0.56        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.67      0.30      0.41        20
+
+avg / total       0.43      0.39      0.36        80
+
+
+For C = 500.0 and	 Gamma = 0.501351351351	 Coef0 = 0.01	 : Average Accuracy = 0.294468559701
+
+             precision    recall  f1-score   support
+
+      coast       0.31      0.80      0.44        20
+     forest       0.75      0.45      0.56        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.67      0.30      0.41        20
+
+avg / total       0.43      0.39      0.36        80
+
+
+For C = 500.0 and	 Gamma = 0.501351351351	 Coef0 = 2.14285714286	 : Average Accuracy = 0.288396027718
+
+             precision    recall  f1-score   support
+
+      coast       0.36      0.65      0.46        20
+     forest       0.56      0.75      0.64        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.62      0.25      0.36        20
+
+avg / total       0.39      0.41      0.36        80
+
+
+For C = 500.0 and	 Gamma = 0.501351351351	 Coef0 = 7.15142857143	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 500.0 and	 Gamma = 0.5125	 Coef0 = 0.0	 : Average Accuracy = 0.296369526028
+
+             precision    recall  f1-score   support
+
+      coast       0.31      0.80      0.45        20
+     forest       0.75      0.45      0.56        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.70      0.35      0.47        20
+
+avg / total       0.44      0.40      0.37        80
+
+
+For C = 500.0 and	 Gamma = 0.5125	 Coef0 = 0.01	 : Average Accuracy = 0.295429538152
+
+             precision    recall  f1-score   support
+
+      coast       0.31      0.80      0.45        20
+     forest       0.75      0.45      0.56        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.70      0.35      0.47        20
+
+avg / total       0.44      0.40      0.37        80
+
+
+For C = 500.0 and	 Gamma = 0.5125	 Coef0 = 2.14285714286	 : Average Accuracy = 0.291377220195
+
+             precision    recall  f1-score   support
+
+      coast       0.34      0.65      0.45        20
+     forest       0.58      0.75      0.65        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.62      0.25      0.36        20
+
+avg / total       0.39      0.41      0.36        80
+
+
+For C = 500.0 and	 Gamma = 0.5125	 Coef0 = 7.15142857143	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 500.0 and	 Gamma = 8.0	 Coef0 = 0.0	 : Average Accuracy = 0.245691528096
+
+             precision    recall  f1-score   support
+
+      coast       0.34      0.60      0.44        20
+     forest       0.42      0.75      0.54        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.00      0.00      0.00        20
+
+avg / total       0.19      0.34      0.24        80
+
+
+For C = 500.0 and	 Gamma = 8.0	 Coef0 = 0.01	 : Average Accuracy = 0.245671920253
+
+             precision    recall  f1-score   support
+
+      coast       0.35      0.60      0.44        20
+     forest       0.41      0.75      0.53        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.00      0.00      0.00        20
+
+avg / total       0.19      0.34      0.24        80
+
+
+For C = 500.0 and	 Gamma = 8.0	 Coef0 = 2.14285714286	 : Average Accuracy = 0.2454841184
+
+             precision    recall  f1-score   support
+
+      coast       0.26      0.90      0.40        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.20      0.10      0.13        20
+
+avg / total       0.11      0.25      0.13        80
+
+
+For C = 500.0 and	 Gamma = 8.0	 Coef0 = 7.15142857143	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 500.0 and	 Gamma = 10.5352631579	 Coef0 = 0.0	 : Average Accuracy = 0.229541947472
+
+             precision    recall  f1-score   support
+
+      coast       0.26      0.90      0.41        20
+     forest       0.20      0.05      0.08        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.14      0.05      0.07        20
+
+avg / total       0.15      0.25      0.14        80
+
+
+For C = 500.0 and	 Gamma = 10.5352631579	 Coef0 = 0.01	 : Average Accuracy = 0.229541947472
+
+             precision    recall  f1-score   support
+
+      coast       0.26      0.90      0.41        20
+     forest       0.20      0.05      0.08        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.14      0.05      0.07        20
+
+avg / total       0.15      0.25      0.14        80
+
+
+For C = 500.0 and	 Gamma = 10.5352631579	 Coef0 = 2.14285714286	 : Average Accuracy = 0.276369113982
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 500.0 and	 Gamma = 10.5352631579	 Coef0 = 7.15142857143	 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80

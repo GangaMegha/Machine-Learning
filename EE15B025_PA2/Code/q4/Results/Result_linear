@@ -1,0 +1,12 @@
+
+
+For C = 0.01 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80

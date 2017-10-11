@@ -1,0 +1,13 @@
+
+
+Precision for Class 1 : 0.611940298507 		 Precision for Class 2 : 0.613065326633
+
+Recall for Class 1 : 0.615 					 Recall for Class 2 : 0.61
+
+F-measure for Class 1 : 0.613466334165 		 F-measure for Class 2 : 0.611528822055
+
+
+
+
+
+Overall Accuracy : 0.6125

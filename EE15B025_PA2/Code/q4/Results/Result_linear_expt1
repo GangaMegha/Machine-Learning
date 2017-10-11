@@ -1,0 +1,240 @@
+
+
+For C = 0.01 : Average Accuracy = 0.277349506139
+
+             precision    recall  f1-score   support
+
+      coast       0.00      0.00      0.00        20
+     forest       0.00      0.00      0.00        20
+inside city       0.00      0.00      0.00        20
+   mountain       0.25      1.00      0.40        20
+
+avg / total       0.06      0.25      0.10        80
+
+
+For C = 5.27263157895 : Average Accuracy = 0.617178142544
+
+             precision    recall  f1-score   support
+
+      coast       0.56      0.50      0.53        20
+     forest       0.71      0.60      0.65        20
+inside city       0.59      0.80      0.68        20
+   mountain       0.56      0.50      0.53        20
+
+avg / total       0.60      0.60      0.60        80
+
+
+For C = 10.5352631579 : Average Accuracy = 0.61231658604
+
+             precision    recall  f1-score   support
+
+      coast       0.59      0.50      0.54        20
+     forest       0.74      0.70      0.72        20
+inside city       0.60      0.75      0.67        20
+   mountain       0.58      0.55      0.56        20
+
+avg / total       0.63      0.62      0.62        80
+
+
+For C = 15.7978947368 : Average Accuracy = 0.598504946533
+
+             precision    recall  f1-score   support
+
+      coast       0.45      0.45      0.45        20
+     forest       0.72      0.65      0.68        20
+inside city       0.55      0.60      0.57        20
+   mountain       0.50      0.50      0.50        20
+
+avg / total       0.55      0.55      0.55        80
+
+
+For C = 21.0605263158 : Average Accuracy = 0.597444328226
+
+             precision    recall  f1-score   support
+
+      coast       0.41      0.45      0.43        20
+     forest       0.72      0.65      0.68        20
+inside city       0.50      0.50      0.50        20
+   mountain       0.50      0.50      0.50        20
+
+avg / total       0.53      0.53      0.53        80
+
+
+For C = 26.3231578947 : Average Accuracy = 0.597436027876
+
+             precision    recall  f1-score   support
+
+      coast       0.43      0.45      0.44        20
+     forest       0.71      0.60      0.65        20
+inside city       0.45      0.50      0.48        20
+   mountain       0.50      0.50      0.50        20
+
+avg / total       0.52      0.51      0.52        80
+
+
+For C = 31.5857894737 : Average Accuracy = 0.600365702717
+
+             precision    recall  f1-score   support
+
+      coast       0.43      0.45      0.44        20
+     forest       0.80      0.60      0.69        20
+inside city       0.43      0.50      0.47        20
+   mountain       0.52      0.55      0.54        20
+
+avg / total       0.55      0.53      0.53        80
+
+
+For C = 36.8484210526 : Average Accuracy = 0.599385504697
+
+             precision    recall  f1-score   support
+
+      coast       0.43      0.45      0.44        20
+     forest       0.86      0.60      0.71        20
+inside city       0.42      0.50      0.45        20
+   mountain       0.52      0.55      0.54        20
+
+avg / total       0.56      0.53      0.53        80
+
+
+For C = 42.1110526316 : Average Accuracy = 0.603375603707
+
+             precision    recall  f1-score   support
+
+      coast       0.48      0.50      0.49        20
+     forest       0.87      0.65      0.74        20
+inside city       0.46      0.55      0.50        20
+   mountain       0.55      0.55      0.55        20
+
+avg / total       0.59      0.56      0.57        80
+
+
+For C = 47.3736842105 : Average Accuracy = 0.603415425576
+
+             precision    recall  f1-score   support
+
+      coast       0.47      0.45      0.46        20
+     forest       0.81      0.65      0.72        20
+inside city       0.46      0.55      0.50        20
+   mountain       0.52      0.55      0.54        20
+
+avg / total       0.57      0.55      0.56        80
+
+
+For C = 52.6363157895 : Average Accuracy = 0.603395017413
+
+             precision    recall  f1-score   support
+
+      coast       0.47      0.45      0.46        20
+     forest       0.81      0.65      0.72        20
+inside city       0.46      0.55      0.50        20
+   mountain       0.52      0.55      0.54        20
+
+avg / total       0.57      0.55      0.56        80
+
+
+For C = 57.8989473684 : Average Accuracy = 0.60237540957
+
+             precision    recall  f1-score   support
+
+      coast       0.44      0.40      0.42        20
+     forest       0.76      0.65      0.70        20
+inside city       0.43      0.50      0.47        20
+   mountain       0.50      0.55      0.52        20
+
+avg / total       0.54      0.53      0.53        80
+
+
+For C = 63.1615789474 : Average Accuracy = 0.606336193883
+
+             precision    recall  f1-score   support
+
+      coast       0.44      0.40      0.42        20
+     forest       0.76      0.65      0.70        20
+inside city       0.42      0.50      0.45        20
+   mountain       0.52      0.55      0.54        20
+
+avg / total       0.54      0.53      0.53        80
+
+
+For C = 68.4242105263 : Average Accuracy = 0.606277370354
+
+             precision    recall  f1-score   support
+
+      coast       0.44      0.40      0.42        20
+     forest       0.76      0.65      0.70        20
+inside city       0.42      0.50      0.45        20
+   mountain       0.52      0.55      0.54        20
+
+avg / total       0.54      0.53      0.53        80
+
+
+For C = 73.6868421053 : Average Accuracy = 0.602306879187
+
+             precision    recall  f1-score   support
+
+      coast       0.44      0.40      0.42        20
+     forest       0.81      0.65      0.72        20
+inside city       0.44      0.55      0.49        20
+   mountain       0.52      0.55      0.54        20
+
+avg / total       0.56      0.54      0.54        80
+
+
+For C = 78.9494736842 : Average Accuracy = 0.604287465481
+
+             precision    recall  f1-score   support
+
+      coast       0.44      0.40      0.42        20
+     forest       0.81      0.65      0.72        20
+inside city       0.44      0.55      0.49        20
+   mountain       0.52      0.55      0.54        20
+
+avg / total       0.56      0.54      0.54        80
+
+
+For C = 84.2121052632 : Average Accuracy = 0.598326875305
+
+             precision    recall  f1-score   support
+
+      coast       0.44      0.40      0.42        20
+     forest       0.81      0.65      0.72        20
+inside city       0.44      0.55      0.49        20
+   mountain       0.52      0.55      0.54        20
+
+avg / total       0.56      0.54      0.54        80
+
+
+For C = 89.4747368421 : Average Accuracy = 0.599337382478
+
+             precision    recall  f1-score   support
+
+      coast       0.44      0.40      0.42        20
+     forest       0.81      0.65      0.72        20
+inside city       0.42      0.55      0.48        20
+   mountain       0.55      0.55      0.55        20
+
+avg / total       0.56      0.54      0.54        80
+
+
+For C = 94.7373684211 : Average Accuracy = 0.597366891311
+
+             precision    recall  f1-score   support
+
+      coast       0.42      0.40      0.41        20
+     forest       0.76      0.65      0.70        20
+inside city       0.44      0.55      0.49        20
+   mountain       0.58      0.55      0.56        20
+
+avg / total       0.55      0.54      0.54        80
+
+
+For C = 100.0 : Average Accuracy = 0.595406106997
+
+             precision    recall  f1-score   support
+
+      coast       0.42      0.40      0.41        20
+     forest       0.76      0.65      0.70        20
+inside city       0.42      0.55      0.48        20
+   mountain       0.56      0.50      0.53        20
+
+avg / total       0.54      0.53      0.53        80

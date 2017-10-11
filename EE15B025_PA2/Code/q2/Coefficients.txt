@@ -1,0 +1,7 @@
+
+Coefficients learned by LDA: 
+		[[-41.20427002 -16.89314554  56.17162875]]
+
+Coefficients learned by Linear regression after feature extraction: 
+		[[ 0.         -0.10400937]
+ [ 0.          0.10400937]]

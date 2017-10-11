@@ -1,0 +1,28 @@
+
+Prediction by LDA :
+
+Precision for Class 1 : 1.0 		 Precision for Class 2 : 1.0
+
+Recall for Class 1 : 1.0 			 Recall for Class 2 : 1.0
+
+F-measure for Class 1 : 1.0 		 F-measure for Class 2 : 1.0
+
+
+
+Overall Accuracy : 1.0
+
+
+
+
+
+Prediction by Linear Regression (after feature extraction) :
+
+Precision for Class 1 : 1.0 		 Precision for Class 2 : 1.0
+
+Recall for Class 1 : 1.0 			 Recall for Class 2 : 1.0
+
+F-measure for Class 1 : 1.0 		 F-measure for Class 2 : 1.0
+
+
+
+Overall Accuracy : 1.0
