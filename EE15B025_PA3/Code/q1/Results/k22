@@ -1,0 +1,103 @@
+=== Run information ===
+
+Scheme:weka.clusterers.SimpleKMeans -N 20 -A "weka.core.EuclideanDistance -R 1-2" -I 500 -S 10
+Relation:     R15-weka.filters.unsupervised.attribute.NumericToNominal-Rlast
+Instances:    600
+Attributes:   3
+              f1
+              f2
+Ignored:
+              label
+Test mode:Classes to clusters evaluation on training data 
+=== Model and evaluation on training set ===
+
+
+kMeans
+======
+
+Number of iterations: 8
+Within cluster sum of squared errors: 0.4959672217934559
+Missing values globally replaced with mean/mode
+
+Cluster centroids:
+                         Cluster#
+Attribute    Full Data          0          1          2          3          4          5          6          7          8          9         10         11         12         13         14         15         16         17         18         19
+                 (600)       (13)       (19)       (20)       (17)       (20)       (27)       (19)       (23)       (40)       (40)       (39)       (40)       (40)       (41)       (21)       (40)       (40)       (23)       (40)       (38)
+==================================================================================================================================================================================================================================================
+f1              9.9975       4.59    10.2442    11.8287    13.9791    12.2986     4.0459    10.9834    11.3901     4.2423     8.6298     9.4898    14.0712     8.1242     8.0962     9.7748    11.2535     8.6143    13.9264    16.3967     9.5587
+f2              9.9795     7.1375     9.8598      9.884    14.6847    10.1848     7.1117    11.4054    11.7887    12.8091    16.2662     7.9785      5.012    10.8287     9.0562    10.2389     8.3996     3.7442    15.1406     9.9345    11.8744
+
+
+
+
+Time taken to build model (full training data) : 0.01 seconds
+
+=== Model and evaluation on training set ===
+
+Clustered Instances
+
+ 0       13 (  2%)
+ 1       19 (  3%)
+ 2       20 (  3%)
+ 3       17 (  3%)
+ 4       20 (  3%)
+ 5       27 (  5%)
+ 6       19 (  3%)
+ 7       23 (  4%)
+ 8       40 (  7%)
+ 9       40 (  7%)
+10       39 (  7%)
+11       40 (  7%)
+12       40 (  7%)
+13       41 (  7%)
+14       21 (  4%)
+15       40 (  7%)
+16       40 (  7%)
+17       23 (  4%)
+18       40 (  7%)
+19       38 (  6%)
+
+
+Class attribute: label
+Classes to Clusters:
+
+  0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19  <-- assigned to cluster
+  0 19  0  0  0  0  0  0  0  0  0  0  0  0 21  0  0  0  0  0 | 1
+  0  0 20  0 20  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 | 2
+  0  0  0  0  0  0 17 23  0  0  0  0  0  0  0  0  0  0  0  0 | 3
+  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0 38 | 4
+  0  0  0  0  0  0  0  0  0  0  0  0 40  0  0  0  0  0  0  0 | 5
+  0  0  0  0  0  0  0  0  0  0  0  0  0 40  0  0  0  0  0  0 | 6
+  0  0  0  0  0  0  0  0  0  0 39  0  0  1  0  0  0  0  0  0 | 7
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 40  0  0  0  0 | 8
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 40  0 | 9
+  0  0  0 17  0  0  0  0  0  0  0  0  0  0  0  0  0 23  0  0 | 10
+  0  0  0  0  0  0  0  0  0 40  0  0  0  0  0  0  0  0  0  0 | 11
+  0  0  0  0  0  0  0  0 40  0  0  0  0  0  0  0  0  0  0  0 | 12
+ 13  0  0  0  0 27  0  0  0  0  0  0  0  0  0  0  0  0  0  0 | 13
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 40  0  0  0 | 14
+  0  0  0  0  0  0  0  0  0  0  0 40  0  0  0  0  0  0  0  0 | 15
+
+Cluster  0 <-- No class
+Cluster  1 <-- No class
+Cluster  2 <-- No class
+Cluster  3 <-- No class
+Cluster  4 <-- 2
+Cluster  5 <-- 13
+Cluster  6 <-- No class
+Cluster  7 <-- 3
+Cluster  8 <-- 12
+Cluster  9 <-- 11
+Cluster 10 <-- 7
+Cluster 11 <-- 15
+Cluster 12 <-- 5
+Cluster 13 <-- 6
+Cluster 14 <-- 1
+Cluster 15 <-- 8
+Cluster 16 <-- 14
+Cluster 17 <-- 10
+Cluster 18 <-- 9
+Cluster 19 <-- 4
+
+Incorrectly clustered instances :	89.0	 14.8333 %
+

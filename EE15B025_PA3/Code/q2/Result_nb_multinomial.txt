@@ -1,0 +1,60 @@
+
+Cross-Validation 1
+
+             precision    recall  f1-score   support
+
+      legit       1.00      0.90      0.95        62
+       spam       0.89      1.00      0.94        48
+
+avg / total       0.95      0.95      0.95       110
+
+
+
+
+Cross-Validation 2
+
+             precision    recall  f1-score   support
+
+       spam       0.97      0.97      0.97        62
+      legit       0.96      0.96      0.96        48
+
+avg / total       0.96      0.96      0.96       110
+
+
+
+
+Cross-Validation 3
+
+             precision    recall  f1-score   support
+
+       spam       0.97      0.93      0.95        61
+      legit       0.92      0.96      0.94        48
+
+avg / total       0.95      0.94      0.95       109
+
+
+
+
+Cross-Validation 4
+
+             precision    recall  f1-score   support
+
+       spam       0.94      0.98      0.96        62
+      legit       0.98      0.92      0.95        48
+
+avg / total       0.96      0.95      0.95       110
+
+
+
+
+Cross-Validation 5
+
+             precision    recall  f1-score   support
+
+      legit       0.98      0.95      0.97        62
+       spam       0.94      0.98      0.96        48
+
+avg / total       0.96      0.96      0.96       110
+
+
+

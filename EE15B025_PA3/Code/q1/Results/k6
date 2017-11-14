@@ -1,0 +1,73 @@
+=== Run information ===
+
+Scheme:weka.clusterers.SimpleKMeans -N 5 -A "weka.core.EuclideanDistance -R 1-2" -I 500 -S 10
+Relation:     R15-weka.filters.unsupervised.attribute.NumericToNominal-Rlast
+Instances:    600
+Attributes:   3
+              f1
+              f2
+Ignored:
+              label
+Test mode:Classes to clusters evaluation on training data 
+=== Model and evaluation on training set ===
+
+
+kMeans
+======
+
+Number of iterations: 10
+Within cluster sum of squared errors: 16.63870245337324
+Missing values globally replaced with mean/mode
+
+Cluster centroids:
+                         Cluster#
+Attribute    Full Data          0          1          2          3          4
+                 (600)       (80)      (320)       (80)       (80)       (40)
+=============================================================================
+f1              9.9975     4.2325     9.9797    11.3427    11.2893    16.3967
+f2              9.9795     9.9646     9.9825     4.3781    15.6066     9.9345
+
+
+
+
+Time taken to build model (full training data) : 0.01 seconds
+
+=== Model and evaluation on training set ===
+
+Clustered Instances
+
+0       80 ( 13%)
+1      320 ( 53%)
+2       80 ( 13%)
+3       80 ( 13%)
+4       40 (  7%)
+
+
+Class attribute: label
+Classes to Clusters:
+
+  0  1  2  3  4  <-- assigned to cluster
+  0 40  0  0  0 | 1
+  0 40  0  0  0 | 2
+  0 40  0  0  0 | 3
+  0 40  0  0  0 | 4
+  0 40  0  0  0 | 5
+  0 40  0  0  0 | 6
+  0 40  0  0  0 | 7
+  0 40  0  0  0 | 8
+  0  0  0  0 40 | 9
+  0  0  0 40  0 | 10
+  0  0  0 40  0 | 11
+ 40  0  0  0  0 | 12
+ 40  0  0  0  0 | 13
+  0  0 40  0  0 | 14
+  0  0 40  0  0 | 15
+
+Cluster 0 <-- 12
+Cluster 1 <-- 1
+Cluster 2 <-- 14
+Cluster 3 <-- 10
+Cluster 4 <-- 9
+
+Incorrectly clustered instances :	400.0	 66.6667 %
+

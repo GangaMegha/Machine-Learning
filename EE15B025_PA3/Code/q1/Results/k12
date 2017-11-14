@@ -1,0 +1,85 @@
+=== Run information ===
+
+Scheme:weka.clusterers.SimpleKMeans -N 11 -A "weka.core.EuclideanDistance -R 1-2" -I 500 -S 10
+Relation:     R15-weka.filters.unsupervised.attribute.NumericToNominal-Rlast
+Instances:    600
+Attributes:   3
+              f1
+              f2
+Ignored:
+              label
+Test mode:Classes to clusters evaluation on training data 
+=== Model and evaluation on training set ===
+
+
+kMeans
+======
+
+Number of iterations: 11
+Within cluster sum of squared errors: 1.863089876850661
+Missing values globally replaced with mean/mode
+
+Cluster centroids:
+                         Cluster#
+Attribute    Full Data          0          1          2          3          4          5          6          7          8          9         10
+                 (600)       (40)       (93)       (40)       (40)       (40)       (40)       (86)       (62)       (40)       (40)       (79)
+===============================================================================================================================================
+f1              9.9975     8.6143    11.3982    14.0712    13.9488    16.3967     4.2227     8.8553    10.9337     4.2423     8.6298      8.785
+f2              9.9795     3.7442     9.2581      5.012    14.9469     9.9345     7.1201    10.9561    11.5885    12.8091    16.2662     8.5149
+
+
+
+
+Time taken to build model (full training data) : 0 seconds
+
+=== Model and evaluation on training set ===
+
+Clustered Instances
+
+ 0       40 (  7%)
+ 1       93 ( 16%)
+ 2       40 (  7%)
+ 3       40 (  7%)
+ 4       40 (  7%)
+ 5       40 (  7%)
+ 6       86 ( 14%)
+ 7       62 ( 10%)
+ 8       40 (  7%)
+ 9       40 (  7%)
+10       79 ( 13%)
+
+
+Class attribute: label
+Classes to Clusters:
+
+  0  1  2  3  4  5  6  7  8  9 10  <-- assigned to cluster
+  0 16  0  0  0  0 20  4  0  0  0 | 1
+  0 37  0  0  0  0  0  3  0  0  0 | 2
+  0  0  0  0  0  0  0 40  0  0  0 | 3
+  0  0  0  0  0  0 25 15  0  0  0 | 4
+  0  0  0  0  0  0 40  0  0  0  0 | 5
+  0  0  0  0  0  0  1  0  0  0 39 | 6
+  0  0  0  0  0  0  0  0  0  0 40 | 7
+  0 40  0  0  0  0  0  0  0  0  0 | 8
+  0  0  0  0 40  0  0  0  0  0  0 | 9
+  0  0  0 40  0  0  0  0  0  0  0 | 10
+  0  0  0  0  0  0  0  0  0 40  0 | 11
+  0  0  0  0  0  0  0  0 40  0  0 | 12
+  0  0  0  0  0 40  0  0  0  0  0 | 13
+ 40  0  0  0  0  0  0  0  0  0  0 | 14
+  0  0 40  0  0  0  0  0  0  0  0 | 15
+
+Cluster  0 <-- 14
+Cluster  1 <-- 8
+Cluster  2 <-- 15
+Cluster  3 <-- 10
+Cluster  4 <-- 9
+Cluster  5 <-- 13
+Cluster  6 <-- 5
+Cluster  7 <-- 3
+Cluster  8 <-- 12
+Cluster  9 <-- 11
+Cluster 10 <-- 7
+
+Incorrectly clustered instances :	160.0	 26.6667 %
+
